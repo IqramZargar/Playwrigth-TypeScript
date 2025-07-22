@@ -1,0 +1,1603 @@
+# Page snapshot
+
+```yaml
+- navigation "Shortcuts menu":
+  - heading "Skip to" [level=2]
+  - list "Skip to":
+    - listitem:
+      - link "main content":
+        - /url: "#skippedLink"
+        - text: Main content
+    - listitem:
+      - link "Results":
+        - /url: .s-asin a:has(h2)
+  - heading "Keyboard shortcuts" [level=2]
+  - list "Keyboard shortcuts":
+    - listitem:
+      - link "Search, alt, forward slash"
+    - listitem:
+      - link "Cart, shift, alt, c"
+    - listitem:
+      - link "Home, shift, alt, h"
+    - listitem:
+      - link "Your orders, shift, alt, o"
+    - listitem:
+      - button "Show/hide shortcuts, shift, alt, z"
+  - text: To move between items, use your keyboard's up or down arrows.
+- banner:
+  - navigation "Primary":
+    - link "Amazon.in":
+      - /url: /ref=nav_logo
+      - text: .in
+    - button "Delivering to Sopur 193201 Update location"
+    - search:
+      - text: All
+      - combobox "Select the department you want to search in":
+        - option "All Categories" [selected]
+        - option "Alexa Skills"
+        - option "Amazon Devices"
+        - option "Amazon Fashion"
+        - option "Amazon Pharmacy"
+        - option "Appliances"
+        - option "Apps & Games"
+        - option "Audible Audiobooks"
+        - option "Baby"
+        - option "Beauty"
+        - option "Books"
+        - option "Car & Motorbike"
+        - option "Clothing & Accessories"
+        - option "Collectibles"
+        - option "Computers & Accessories"
+        - option "Deals"
+        - option "Electronics"
+        - option "Furniture"
+        - option "Garden & Outdoors"
+        - option "Gift Cards"
+        - option "Grocery & Gourmet Foods"
+        - option "Health & Personal Care"
+        - option "Home & Kitchen"
+        - option "Industrial & Scientific"
+        - option "Jewellery"
+        - option "Kindle Store"
+        - option "Luggage & Bags"
+        - option "Luxury Beauty"
+        - option "Movies & TV Shows"
+        - option "MP3 Music"
+        - option "Music"
+        - option "Musical Instruments"
+        - option "Office Products"
+        - option "Pet Supplies"
+        - option "Prime Video"
+        - option "Shoes & Handbags"
+        - option "Software"
+        - option "Sports, Fitness & Outdoors"
+        - option "Subscribe & Save"
+        - option "Tools & Home Improvement"
+        - option "Toys & Games"
+        - option "Under ₹500"
+        - option "Video Games"
+        - option "Watches"
+      - searchbox "Search Amazon.in": iphone 15 plus
+      - button "Go"
+    - link "Choose a language for shopping in Amazon India. The current selection is English (EN).":
+      - /url: /customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=topnav_lang
+      - img "India"
+      - text: EN
+    - button "Expand to Change Language or Country"
+    - link "Hello, sign in Account & Lists":
+      - /url: https://www.amazon.in/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.in%2Fs%3Fk%3Diphone%2B15%2Bplus%26crid%3D16YD20ES9034X%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26ref%3Dnav_ya_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=inflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0
+    - button "Expand Account and Lists"
+    - link "Returns & Orders":
+      - /url: /gp/css/order-history?ref_=nav_orders_first
+    - link "0 items in cart":
+      - /url: /gp/cart/view.html?ref_=nav_cart
+    - button "Open All Categories Menu": All
+    - list:
+      - listitem:
+        - link "MX Player":
+          - /url: /minitv?ref_=nav_avod_desktop_topnav
+      - listitem:
+        - link "Sell":
+          - /url: /b/32702023031?node=32702023031&ld=AZINSOANavDesktop_T3&ref_=nav_cs_sell_T3
+      - listitem:
+        - link "Bestsellers":
+          - /url: /gp/bestsellers/?ref_=nav_cs_bestsellers
+      - listitem:
+        - link "Today's Deals":
+          - /url: /deals?ref_=nav_cs_gb
+      - listitem:
+        - link "Mobiles":
+          - /url: /mobile-phones/b/?ie=UTF8&node=1389401031&ref_=nav_cs_mobiles
+      - listitem:
+        - link "Prime":
+          - /url: /prime?ref_=nav_cs_primelink_nonmember
+        - button "Prime Details"
+      - listitem:
+        - link "Customer Service":
+          - /url: /gp/help/customer/display.html?nodeId=200507590&ref_=nav_cs_help
+      - listitem:
+        - link "Fashion":
+          - /url: /gp/browse.html?node=6648217031&ref_=nav_cs_fashion
+      - listitem:
+        - link "New Releases":
+          - /url: /gp/new-releases/?ref_=nav_cs_newreleases
+      - listitem:
+        - link "Home & Kitchen":
+          - /url: /Home-Kitchen/b/?ie=UTF8&node=976442031&ref_=nav_cs_home
+      - listitem:
+        - link "Electronics":
+          - /url: /electronics/b/?ie=UTF8&node=976419031&ref_=nav_cs_electronics
+      - listitem:
+        - link "Amazon Pay":
+          - /url: /gp/sva/dashboard?ref_=nav_cs_apay
+      - listitem:
+        - link "Computers":
+          - /url: /computers-and-accessories/b/?ie=UTF8&node=976392031&ref_=nav_cs_pc
+      - listitem:
+        - link "Beauty & Personal Care":
+          - /url: /beauty/b/?ie=UTF8&node=1355016031&ref_=nav_cs_beauty
+      - listitem:
+        - link "Books":
+          - /url: /Books/b/?ie=UTF8&node=976389031&ref_=nav_cs_books
+      - listitem:
+        - link "Car & Motorbike":
+          - /url: /Car-Motorbike-Store/b/?ie=UTF8&node=4772060031&ref_=nav_cs_automotive
+      - listitem:
+        - link "Video Games":
+          - /url: /video-games/b/?ie=UTF8&node=976460031&ref_=nav_cs_video_games
+      - listitem:
+        - link "Toys & Games":
+          - /url: /Toys-Games/b/?ie=UTF8&node=1350380031&ref_=nav_cs_toys
+      - listitem:
+        - link "Home Improvement":
+          - /url: /Home-Improvement/b/?ie=UTF8&node=4286640031&ref_=nav_cs_hi
+      - listitem:
+        - link "Gift Cards":
+          - /url: /gift-card-store/b/?ie=UTF8&node=3704982031&ref_=nav_cs_gc
+      - listitem:
+        - link "Grocery & Gourmet Foods":
+          - /url: /Gourmet-Specialty-Foods/b/?ie=UTF8&node=2454178031&ref_=nav_cs_grocery
+      - listitem:
+        - link "Sports, Fitness & Outdoors":
+          - /url: /Sports/b/?ie=UTF8&node=1984443031&ref_=nav_cs_sports
+      - listitem:
+        - link "Health, Household & Personal Care":
+          - /url: /health-and-personal-care/b/?ie=UTF8&node=1350384031&ref_=nav_cs_hpc
+      - listitem:
+        - link "Custom Products":
+          - /url: /Amazon-Custom/b/?ie=UTF8&node=32615889031&ref_=nav_cs_custom
+      - listitem:
+        - link "Baby":
+          - /url: /Baby/b/?ie=UTF8&node=1571274031&ref_=nav_cs_baby
+      - listitem:
+        - link "Pet Supplies":
+          - /url: /Pet-Supplies/b/?ie=UTF8&node=2454181031&ref_=nav_cs_pets
+      - listitem:
+        - link "AmazonBasics":
+          - /url: /b/?node=6637738031&ref_=nav_cs_amazonbasics
+      - listitem:
+        - link "Subscribe & Save":
+          - /url: /auto-deliveries/landing?ref_=nav_cs_sns
+      - listitem:
+        - link "Audible":
+          - /url: /Audible-Books-and-Originals/b/?ie=UTF8&node=17941593031&ref_=nav_cs_audible
+      - listitem:
+        - link "Gift Ideas":
+          - /url: /gcx/-/gfhz/?ref_=nav_cs_giftfinder
+    - dialog
+- 'heading "1-16 of over 50,000 results for \"iphone 15 plus\" Sort by: Featured" [level=1]':
+  - heading "1-16 of over 50,000 results for \"iphone 15 plus\"" [level=2]
+  - text: "Sort by:"
+  - combobox "Sort by:":
+    - option "Featured" [selected]
+    - 'option "Price: Low to High"'
+    - 'option "Price: High to Low"'
+    - option "Avg. Customer Review"
+    - option "Newest Arrivals"
+    - option "Best Sellers"
+- link "Sponsored ad from Apple. \"iPhone 15 Plus. Newphoria.\" Shop Apple.":
+  - /url: https://aax-eu.amazon.in/x/c/JF4Ko5Hibue_NqYRohc7EXwAAAGYLAlr-AMAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDEgICAWf1pJ/clv1_CEuOPUxokZA0iHrVaug0wSHdYm0mDepvrJco9BKY7Nl74X8BqzrQF_018HHz9hvVjq0yzpNb3X7OfU1TAmcAN0d6NSKcNNeuTBFXfkFeSnWzB7xylEfB8IkGXCReU-W6XJfef1D8rsFSE0M9llvwdksJOldODd93Q196UuYlQRaY37qDjF4oXlv5OpjsdqwyCjQHbdXAhZRSWWhBJNwAffQdjs-hn4wsEjvWNPQG9gUahJtJn6j8Z0wG3nKH1EB2AHnpPv3v4jxS3xU_Le0rSSiNJVyJjAz9B7yl_bPrUYAZJ0SW56eH2BSUezfuFJqqwu8cx-dVFPfKmIrSIfmUAPhFi-ovfDwLlI8C-9FHE6Fj0W5fDGy7yyiZpLUoXBybczh8qVSyj0UNuzT-N52bUz1lAp3XhtVXPtM6C2xN4Sp2M752rihBP2dM-J0mRnMYGeGRQNXmps2WYj0fYwqXp5k5RHmyoBqWXwRyXIlzu-6HH3FT4s6H-wHLa21DJ5GSkM0K_SFkG4gwwxmImXXG7TvDXAVBdkM7BA2VVBHqP5HxRyOtGwl75VQCCF3beWjjTcYigPRbLgeyrKdlg-IcNyLiMCNNsSl1iNkGud31v3Mko4-Hw7UTQ3vR8SK_SaufNVo9bMA9ez8U3rBjGLZPnQo-_pfIP09Oa1cTnvl2j6sUGxMFUx-8sDU0_RbMYuZ-wzc_8mRIxu8G_-8GDknuN241ppGHCOjHh5_FFWE5RjP_shvSRsZ74T9i8dJycPqYh5loFB3Xrmj36BjGH0HkBAd5pR3ON3tYkP9wdtUwYBbL5lkOPfFxgz9fs5yETWy4cdnifCB8wTCXo_NueuVxm6uM2Xkni_STPviJlNGO1HPq32H4xW0UyTzGk1SVgQX3uNEgp_UHyxHrPO4fX8swBN-53eyU4RJvbAgsACjmsBmG0R14PU80UXQ1WBvY9mWCnCi_T-aZ3r6cj_zSyRalUYFIM-yAJbjB1ESIZQJRLs9vfQtzZFdYb7jr0ijpKXc9JgmE-ZdqzgIZfKsNxZ6D_jR_hihqKre_s1Bq6qpY7wVme1OaeZ-pBG3KdYtRDc11MS-CSZ_RERQFM6KdcbSfuv7HBwbj7N5kd-0ZJwZ_NpadKm6RKsh2rQJ9G6iDouvPvvMHbtPykRICG_ZGjmQXalQLR_aeOHjXSNQMjK3at73F1zKq01j04JkBkBxvYMsKF1CsHXjewmiEeSIJowDdGvDA6c9zgb9G1T607qx2LljODA0FRxzWx22T1iAUOqbfepk6oP6QdnDpY7NRYaEuo0YH3qhA1oay1zCRmk6KKOT3deNZd97b49MSrjKM1YAdObQ-THWJ0EjnpPoZDQUL6PvNtOIF_GFobd5UGeZ7o7E6tWGaJmimjeuzEk-XL7xAEQePZVqKYS-kfBoWebWxT4GNjzmvCXNFna0v99fuuVZpTgxLwp4AJrcQFgmkKAOH9TEDA3unhYO7uw_-TnXSc1zy2ACdYs8C5b5w9uEht1EllEHDJX6zPHRh3Z4KqdOIrlj0YgdWcspYEKjXcY86DjPYgcacKBizBUqAJqFJq82518mdzoqEQoB5Ud4EjvFLU9j-Pl3C06fdQ_TkJ30jbQBl_--KzIAP3LTUwnnlyu2pSVPkFS2isRRVqXhNV4ycdA6bFmTnm48pWyC3qBhD7a8JVw7EaUwsZIh0q_0ZV8CdE9gWltbsTXg0xcuYiuSNmN5xSZKjujpfv3m_hc5HDyG20AdZkiOv97lRAgKh3FOpj8vRw9MSTpRNmlrJMYQSpKlN7QiapolCKtldeq9u528nQPbI4XnrRa2nBSP0qpq7L5ui6qM37swzYtyqt-d0gBI-f9hkMZ0O-qHAFVfFApyokYhTdpOQe-UNUkU-mRFAr43YHpbpnHgBfJa2yPs0kO_RSxJZneyD9yVuZFTwGfjmxjwbnA_jjFJZJxmsOB9LvfawISEXdte9Ce1Y4-9v6mcLpv_QfwjY1-fCVLraexqa350FdT_DE-RnZAjMXvbtIDlcK5qoWJvHmAHy6Xc9AdlhVRtCL8EdrkB5g-LdudK8i-hqPcioRfJrIt5lRaEKzJJQaUUHevFxgD9tMLqnwnwccVZmTe7RBVvKOwa5CGU2C4Wi7u7kDeRu0UwYzZXRyLULJE_6eoYmrrw0rGijfGVrq3x85hldDH5Hb-6gbJdpyKQ2145TPdMx/https://www.amazon.in/stores/page/9505ACAA-EF13-4AE6-AB5E-F14749A7822E/?_encoding=UTF8&store_ref=SB_A04694653JCNFLESRT0Y7-A10002251DW9MAWLMEA72&pd_rd_plhdr=t&aaxitk=42b612e91941be8b94fe5e009de8481f&hsa_cr_id=0&lp_asins=B0CHX7STQQ%2CB0CHX6X2WW&lp_query=iphone%2015%20plus&lp_slot=auto-sparkle-hsa-tetris&aref=nErX8pWenc&ref_=sbx_be_s_sparkle_mcd_bkgd&pd_rd_w=aEqii&content-id=amzn1.sym.cbe1d71a-30e3-45dc-b787-bad221b13c68%3Aamzn1.sym.cbe1d71a-30e3-45dc-b787-bad221b13c68&pf_rd_p=cbe1d71a-30e3-45dc-b787-bad221b13c68&pf_rd_r=RGYGFZ3JG97DVPHHYW6X&pd_rd_wg=H7U0U&pd_rd_r=e196b66a-59c8-4140-bc16-9cd77fc9c3cb
+- link "Apple":
+  - /url: https://aax-eu.amazon.in/x/c/JF4Ko5Hibue_NqYRohc7EXwAAAGYLAlr-AMAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDEgICAWf1pJ/clv1_CEuOPUxokZA0iHrVaug0wSHdYm0mDepvrJco9BKY7Nl74X8BqzrQF_018HHz9hvVjq0yzpNb3X7OfU1TAmcAN0d6NSKcNNeuTBFXfkFeSnWzB7xylEfB8IkGXCReU-W6XJfef1D8rsFSE0M9llvwdksJOldODd93Q196UuYlQRaY37qDjF4oXlv5OpjsdqwyCjQHbdXAhZRSWWhBJNwAffQdjs-hn4wsEjvWNPQG9gUahJtJn6j8Z0wG3nKH1EB2AHnpPv3v4jxS3xU_Le0rSSiNJVyJjAz9B7yl_bPrUYAZJ0SW56eH2BSUezfuFJqqwu8cx-dVFPfKmIrSIfmUAPhFi-ovfDwLlI8C-9FHE6Fj0W5fDGy7yyiZpLUoXBybczh8qVSyj0UNuzT-N52bUz1lAp3XhtVXPtM6C2xN4Sp2M752rihBP2dM-J0mRnMYGeGRQNXmps2WYj0fYwqXp5k5RHmyoBqWXwRyXIlzu-6HH3FT4s6H-wHLa21DJ5GSkM0K_SFkG4gwwxmImXXG7TvDXAVBdkM7BA2VVBHqP5HxRyOtGwl75VQCCF3beWjjTcYigPRbLgeyrKdlg-IcNyLiMCNNsSl1iNkGud31v3Mko4-Hw7UTQ3vR8SK_SaufNVo9bMA9ez8U3rBjGLZPnQo-_pfIP09Oa1cTnvl2j6sUGxMFUx-8sDU0_RbMYuZ-wzc_8mRIxu8G_-8GDknuN241ppGHCOjHh5_FFWE5RjP_shvSRsZ74T9i8dJycPqYh5loFB3Xrmj36BjGH0HkBAd5pR3ON3tYkP9wdtUwYBbL5lkOPfFxgz9fs5yETWy4cdnifCB8wTCXo_NueuVxm6uM2Xkni_STPviJlNGO1HPq32H4xW0UyTzGk1SVgQX3uNEgp_UHyxHrPO4fX8swBN-53eyU4RJvbAgsACjmsBmG0R14PU80UXQ1WBvY9mWCnCi_T-aZ3r6cj_zSyRalUYFIM-yAJbjB1ESIZQJRLs9vfQtzZFdYb7jr0ijpKXc9JgmE-ZdqzgIZfKsNxZ6D_jR_hihqKre_s1Bq6qpY7wVme1OaeZ-pBG3KdYtRDc11MS-CSZ_RERQFM6KdcbSfuv7HBwbj7N5kd-0ZJwZ_NpadKm6RKsh2rQJ9G6iDouvPvvMHbtPykRICG_ZGjmQXalQLR_aeOHjXSNQMjK3at73F1zKq01j04JkBkBxvYMsKF1CsHXjewmiEeSIJowDdGvDA6c9zgb9G1T607qx2LljODA0FRxzWx22T1iAUOqbfepk6oP6QdnDpY7NRYaEuo0YH3qhA1oay1zCRmk6KKOT3deNZd97b49MSrjKM1YAdObQ-THWJ0EjnpPoZDQUL6PvNtOIF_GFobd5UGeZ7o7E6tWGaJmimjeuzEk-XL7xAEQePZVqKYS-kfBoWebWxT4GNjzmvCXNFna0v99fuuVZpTgxLwp4AJrcQFgmkKAOH9TEDA3unhYO7uw_-TnXSc1zy2ACdYs8C5b5w9uEht1EllEHDJX6zPHRh3Z4KqdOIrlj0YgdWcspYEKjXcY86DjPYgcacKBizBUqAJqFJq82518mdzoqEQoB5Ud4EjvFLU9j-Pl3C06fdQ_TkJ30jbQBl_--KzIAP3LTUwnnlyu2pSVPkFS2isRRVqXhNV4ycdA6bFmTnm48pWyC3qBhD7a8JVw7EaUwsZIh0q_0ZV8CdE9gWltbsTXg0xcuYiuSNmN5xSZKjujpfv3m_hc5HDyG20AdZkiOv97lRAgKh3FOpj8vRw9MSTpRNmlrJMYQSpKlN7QiapolCKtldeq9u528nQPbI4XnrRa2nBSP0qpq7L5ui6qM37swzYtyqt-d0gBI-f9hkMZ0O-qHAFVfFApyokYhTdpOQe-UNUkU-mRFAr43YHpbpnHgBfJa2yPs0kO_RSxJZneyD9yVuZFTwGfjmxjwbnA_jjFJZJxmsOB9LvfawISEXdte9Ce1Y4-9v6mcLpv_QfwjY1-fCVLraexqa350FdT_DE-RnZAjMXvbtIDlcK5qoWJvHmAHy6Xc9AdlhVRtCL8EdrkB5g-LdudK8i-hqPcioRfJrIt5lRaEKzJJQaUUHevFxgD9tMLqnwnwccVZmTe7RBVvKOwa5CGU2C4Wi7u7kDeRu0UwYzZXRyLULJE_6eoYmrrw0rGijfGVrq3x85hldDH5Hb-6gbJdpyKQ2145TPdMx/https://www.amazon.in/stores/page/9505ACAA-EF13-4AE6-AB5E-F14749A7822E/?_encoding=UTF8&store_ref=SB_A04694653JCNFLESRT0Y7-A10002251DW9MAWLMEA72&pd_rd_plhdr=t&aaxitk=42b612e91941be8b94fe5e009de8481f&hsa_cr_id=0&lp_asins=B0CHX7STQQ%2CB0CHX6X2WW&lp_query=iphone%2015%20plus&lp_slot=auto-sparkle-hsa-tetris&aref=nErX8pWenc&ref_=sbx_be_s_sparkle_mcd_logo&pd_rd_w=aEqii&content-id=amzn1.sym.cbe1d71a-30e3-45dc-b787-bad221b13c68%3Aamzn1.sym.cbe1d71a-30e3-45dc-b787-bad221b13c68&pf_rd_p=cbe1d71a-30e3-45dc-b787-bad221b13c68&pf_rd_r=RGYGFZ3JG97DVPHHYW6X&pd_rd_wg=H7U0U&pd_rd_r=e196b66a-59c8-4140-bc16-9cd77fc9c3cb
+  - img "Apple"
+- heading "iPhone 15 Plus. Newphoria" [level=2]:
+  - link "iPhone 15 Plus. Newphoria":
+    - /url: https://aax-eu.amazon.in/x/c/JF4Ko5Hibue_NqYRohc7EXwAAAGYLAlr-AMAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDEgICAWf1pJ/clv1_CEuOPUxokZA0iHrVaug0wSHdYm0mDepvrJco9BKY7Nl74X8BqzrQF_018HHz9hvVjq0yzpNb3X7OfU1TAmcAN0d6NSKcNNeuTBFXfkFeSnWzB7xylEfB8IkGXCReU-W6XJfef1D8rsFSE0M9llvwdksJOldODd93Q196UuYlQRaY37qDjF4oXlv5OpjsdqwyCjQHbdXAhZRSWWhBJNwAffQdjs-hn4wsEjvWNPQG9gUahJtJn6j8Z0wG3nKH1EB2AHnpPv3v4jxS3xU_Le0rSSiNJVyJjAz9B7yl_bPrUYAZJ0SW56eH2BSUezfuFJqqwu8cx-dVFPfKmIrSIfmUAPhFi-ovfDwLlI8C-9FHE6Fj0W5fDGy7yyiZpLUoXBybczh8qVSyj0UNuzT-N52bUz1lAp3XhtVXPtM6C2xN4Sp2M752rihBP2dM-J0mRnMYGeGRQNXmps2WYj0fYwqXp5k5RHmyoBqWXwRyXIlzu-6HH3FT4s6H-wHLa21DJ5GSkM0K_SFkG4gwwxmImXXG7TvDXAVBdkM7BA2VVBHqP5HxRyOtGwl75VQCCF3beWjjTcYigPRbLgeyrKdlg-IcNyLiMCNNsSl1iNkGud31v3Mko4-Hw7UTQ3vR8SK_SaufNVo9bMA9ez8U3rBjGLZPnQo-_pfIP09Oa1cTnvl2j6sUGxMFUx-8sDU0_RbMYuZ-wzc_8mRIxu8G_-8GDknuN241ppGHCOjHh5_FFWE5RjP_shvSRsZ74T9i8dJycPqYh5loFB3Xrmj36BjGH0HkBAd5pR3ON3tYkP9wdtUwYBbL5lkOPfFxgz9fs5yETWy4cdnifCB8wTCXo_NueuVxm6uM2Xkni_STPviJlNGO1HPq32H4xW0UyTzGk1SVgQX3uNEgp_UHyxHrPO4fX8swBN-53eyU4RJvbAgsACjmsBmG0R14PU80UXQ1WBvY9mWCnCi_T-aZ3r6cj_zSyRalUYFIM-yAJbjB1ESIZQJRLs9vfQtzZFdYb7jr0ijpKXc9JgmE-ZdqzgIZfKsNxZ6D_jR_hihqKre_s1Bq6qpY7wVme1OaeZ-pBG3KdYtRDc11MS-CSZ_RERQFM6KdcbSfuv7HBwbj7N5kd-0ZJwZ_NpadKm6RKsh2rQJ9G6iDouvPvvMHbtPykRICG_ZGjmQXalQLR_aeOHjXSNQMjK3at73F1zKq01j04JkBkBxvYMsKF1CsHXjewmiEeSIJowDdGvDA6c9zgb9G1T607qx2LljODA0FRxzWx22T1iAUOqbfepk6oP6QdnDpY7NRYaEuo0YH3qhA1oay1zCRmk6KKOT3deNZd97b49MSrjKM1YAdObQ-THWJ0EjnpPoZDQUL6PvNtOIF_GFobd5UGeZ7o7E6tWGaJmimjeuzEk-XL7xAEQePZVqKYS-kfBoWebWxT4GNjzmvCXNFna0v99fuuVZpTgxLwp4AJrcQFgmkKAOH9TEDA3unhYO7uw_-TnXSc1zy2ACdYs8C5b5w9uEht1EllEHDJX6zPHRh3Z4KqdOIrlj0YgdWcspYEKjXcY86DjPYgcacKBizBUqAJqFJq82518mdzoqEQoB5Ud4EjvFLU9j-Pl3C06fdQ_TkJ30jbQBl_--KzIAP3LTUwnnlyu2pSVPkFS2isRRVqXhNV4ycdA6bFmTnm48pWyC3qBhD7a8JVw7EaUwsZIh0q_0ZV8CdE9gWltbsTXg0xcuYiuSNmN5xSZKjujpfv3m_hc5HDyG20AdZkiOv97lRAgKh3FOpj8vRw9MSTpRNmlrJMYQSpKlN7QiapolCKtldeq9u528nQPbI4XnrRa2nBSP0qpq7L5ui6qM37swzYtyqt-d0gBI-f9hkMZ0O-qHAFVfFApyokYhTdpOQe-UNUkU-mRFAr43YHpbpnHgBfJa2yPs0kO_RSxJZneyD9yVuZFTwGfjmxjwbnA_jjFJZJxmsOB9LvfawISEXdte9Ce1Y4-9v6mcLpv_QfwjY1-fCVLraexqa350FdT_DE-RnZAjMXvbtIDlcK5qoWJvHmAHy6Xc9AdlhVRtCL8EdrkB5g-LdudK8i-hqPcioRfJrIt5lRaEKzJJQaUUHevFxgD9tMLqnwnwccVZmTe7RBVvKOwa5CGU2C4Wi7u7kDeRu0UwYzZXRyLULJE_6eoYmrrw0rGijfGVrq3x85hldDH5Hb-6gbJdpyKQ2145TPdMx/https://www.amazon.in/stores/page/9505ACAA-EF13-4AE6-AB5E-F14749A7822E/?_encoding=UTF8&store_ref=SB_A04694653JCNFLESRT0Y7-A10002251DW9MAWLMEA72&pd_rd_plhdr=t&aaxitk=42b612e91941be8b94fe5e009de8481f&hsa_cr_id=0&lp_asins=B0CHX7STQQ%2CB0CHX6X2WW&lp_query=iphone%2015%20plus&lp_slot=auto-sparkle-hsa-tetris&aref=nErX8pWenc&ref_=sbx_be_s_sparkle_mcd_hl&pd_rd_w=aEqii&content-id=amzn1.sym.cbe1d71a-30e3-45dc-b787-bad221b13c68%3Aamzn1.sym.cbe1d71a-30e3-45dc-b787-bad221b13c68&pf_rd_p=cbe1d71a-30e3-45dc-b787-bad221b13c68&pf_rd_r=RGYGFZ3JG97DVPHHYW6X&pd_rd_wg=H7U0U&pd_rd_r=e196b66a-59c8-4140-bc16-9cd77fc9c3cb
+- link "Shop Apple":
+  - /url: https://aax-eu.amazon.in/x/c/JF4Ko5Hibue_NqYRohc7EXwAAAGYLAlr-AMAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDEgICAWf1pJ/clv1_CEuOPUxokZA0iHrVaug0wSHdYm0mDepvrJco9BKY7Nl74X8BqzrQF_018HHz9hvVjq0yzpNb3X7OfU1TAmcAN0d6NSKcNNeuTBFXfkFeSnWzB7xylEfB8IkGXCReU-W6XJfef1D8rsFSE0M9llvwdksJOldODd93Q196UuYlQRaY37qDjF4oXlv5OpjsdqwyCjQHbdXAhZRSWWhBJNwAffQdjs-hn4wsEjvWNPQG9gUahJtJn6j8Z0wG3nKH1EB2AHnpPv3v4jxS3xU_Le0rSSiNJVyJjAz9B7yl_bPrUYAZJ0SW56eH2BSUezfuFJqqwu8cx-dVFPfKmIrSIfmUAPhFi-ovfDwLlI8C-9FHE6Fj0W5fDGy7yyiZpLUoXBybczh8qVSyj0UNuzT-N52bUz1lAp3XhtVXPtM6C2xN4Sp2M752rihBP2dM-J0mRnMYGeGRQNXmps2WYj0fYwqXp5k5RHmyoBqWXwRyXIlzu-6HH3FT4s6H-wHLa21DJ5GSkM0K_SFkG4gwwxmImXXG7TvDXAVBdkM7BA2VVBHqP5HxRyOtGwl75VQCCF3beWjjTcYigPRbLgeyrKdlg-IcNyLiMCNNsSl1iNkGud31v3Mko4-Hw7UTQ3vR8SK_SaufNVo9bMA9ez8U3rBjGLZPnQo-_pfIP09Oa1cTnvl2j6sUGxMFUx-8sDU0_RbMYuZ-wzc_8mRIxu8G_-8GDknuN241ppGHCOjHh5_FFWE5RjP_shvSRsZ74T9i8dJycPqYh5loFB3Xrmj36BjGH0HkBAd5pR3ON3tYkP9wdtUwYBbL5lkOPfFxgz9fs5yETWy4cdnifCB8wTCXo_NueuVxm6uM2Xkni_STPviJlNGO1HPq32H4xW0UyTzGk1SVgQX3uNEgp_UHyxHrPO4fX8swBN-53eyU4RJvbAgsACjmsBmG0R14PU80UXQ1WBvY9mWCnCi_T-aZ3r6cj_zSyRalUYFIM-yAJbjB1ESIZQJRLs9vfQtzZFdYb7jr0ijpKXc9JgmE-ZdqzgIZfKsNxZ6D_jR_hihqKre_s1Bq6qpY7wVme1OaeZ-pBG3KdYtRDc11MS-CSZ_RERQFM6KdcbSfuv7HBwbj7N5kd-0ZJwZ_NpadKm6RKsh2rQJ9G6iDouvPvvMHbtPykRICG_ZGjmQXalQLR_aeOHjXSNQMjK3at73F1zKq01j04JkBkBxvYMsKF1CsHXjewmiEeSIJowDdGvDA6c9zgb9G1T607qx2LljODA0FRxzWx22T1iAUOqbfepk6oP6QdnDpY7NRYaEuo0YH3qhA1oay1zCRmk6KKOT3deNZd97b49MSrjKM1YAdObQ-THWJ0EjnpPoZDQUL6PvNtOIF_GFobd5UGeZ7o7E6tWGaJmimjeuzEk-XL7xAEQePZVqKYS-kfBoWebWxT4GNjzmvCXNFna0v99fuuVZpTgxLwp4AJrcQFgmkKAOH9TEDA3unhYO7uw_-TnXSc1zy2ACdYs8C5b5w9uEht1EllEHDJX6zPHRh3Z4KqdOIrlj0YgdWcspYEKjXcY86DjPYgcacKBizBUqAJqFJq82518mdzoqEQoB5Ud4EjvFLU9j-Pl3C06fdQ_TkJ30jbQBl_--KzIAP3LTUwnnlyu2pSVPkFS2isRRVqXhNV4ycdA6bFmTnm48pWyC3qBhD7a8JVw7EaUwsZIh0q_0ZV8CdE9gWltbsTXg0xcuYiuSNmN5xSZKjujpfv3m_hc5HDyG20AdZkiOv97lRAgKh3FOpj8vRw9MSTpRNmlrJMYQSpKlN7QiapolCKtldeq9u528nQPbI4XnrRa2nBSP0qpq7L5ui6qM37swzYtyqt-d0gBI-f9hkMZ0O-qHAFVfFApyokYhTdpOQe-UNUkU-mRFAr43YHpbpnHgBfJa2yPs0kO_RSxJZneyD9yVuZFTwGfjmxjwbnA_jjFJZJxmsOB9LvfawISEXdte9Ce1Y4-9v6mcLpv_QfwjY1-fCVLraexqa350FdT_DE-RnZAjMXvbtIDlcK5qoWJvHmAHy6Xc9AdlhVRtCL8EdrkB5g-LdudK8i-hqPcioRfJrIt5lRaEKzJJQaUUHevFxgD9tMLqnwnwccVZmTe7RBVvKOwa5CGU2C4Wi7u7kDeRu0UwYzZXRyLULJE_6eoYmrrw0rGijfGVrq3x85hldDH5Hb-6gbJdpyKQ2145TPdMx/https://www.amazon.in/stores/page/9505ACAA-EF13-4AE6-AB5E-F14749A7822E/?_encoding=UTF8&store_ref=SB_A04694653JCNFLESRT0Y7-A10002251DW9MAWLMEA72&pd_rd_plhdr=t&aaxitk=42b612e91941be8b94fe5e009de8481f&hsa_cr_id=0&lp_asins=B0CHX7STQQ%2CB0CHX6X2WW&lp_query=iphone%2015%20plus&lp_slot=auto-sparkle-hsa-tetris&aref=nErX8pWenc&ref_=sbx_be_s_sparkle_mcd_cta&pd_rd_w=aEqii&content-id=amzn1.sym.cbe1d71a-30e3-45dc-b787-bad221b13c68%3Aamzn1.sym.cbe1d71a-30e3-45dc-b787-bad221b13c68&pf_rd_p=cbe1d71a-30e3-45dc-b787-bad221b13c68&pf_rd_r=RGYGFZ3JG97DVPHHYW6X&pd_rd_wg=H7U0U&pd_rd_r=e196b66a-59c8-4140-bc16-9cd77fc9c3cb
+- list:
+  - listitem:
+    - link "Go to detail page for \"Apple iPhone 15 Plus (256 GB) - Pink.\" Eligible for Prime.":
+      - /url: https://aax-eu.amazon.in/x/c/JF4Ko5Hibue_NqYRohc7EXwAAAGYLAlr-AMAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDEgICAWf1pJ/clv1_CEuOPUxokZA0iHrVaug0wSHdYm0mDepvrJco9BKY7Nl74X8BqzrQF_018HHz9hvVjq0yzpNb3X7OfU1TAmcAN0d6NSKcNNeuTBFXfkFeSnWzB7xylEfB8IkGXCReU-W6XJfef1D8rsFSE0M9llvwdksJOldODd93Q196UuYlQRaY37qDjF4oXlv5OpjsdqwyCjQHbdXAhZRSWWhBJNwAffQdjs-hn4wsEjvWNPQG9gUahJtJn6j8Z0wG3nKH1EB2AHnpPv3v4jxS3xU_Le0rSSiNJVyJjAz9B7yl_bPrUYAZJ0SW56eH2BSUezfuFJqqwu8cx-dVFPfKmIrSIfmUAPhFi-ovfDwLlI8C-9FHE6Fj0W5fDGy7yyiZpLUoXBybczh8qVSyj0UNuzT-N52bUz1lAp3XhtVXPtM6C2xN4Sp2M752rihBP2dM-J0mRnMYGeGRQNXmps2WYj0fYwqXp5k5RHmyoBqWXwRyXIlzu-6HH3FT4s6H-wHLa21DJ5GSkM0K_SFkG4gwwxmImXXG7TvDXAVBdkM7BA2VVBHqP5HxRyOtGwl75VQCCF3beWjjTcYigPRbLgeyrKdlg-IcNyLiMCNNsSl1iNkGud31v3Mko4-Hw7UTQ3vR8SK_SaufNVo9bMA9ez8U3rBjGLZPnQo-_pfIP09Oa1cTnvl2j6sUGxMFUx-8sDU0_RbMYuZ-wzc_8mRIxu8G_-8GDknuN241ppGHCOjHh5_FFWE5RjP_shvSRsZ74T9i8dJycPqYh5loFB3Xrmj36BjGH0HkBAd5pR3ON3tYkP9wdtUwYBbL5lkOPfFxgz9fs5yETWy4cdnifCB8wTCXo_NueuVxm6uM2Xkni_STPviJlNGO1HPq32H4xW0UyTzGk1SVgQX3uNEgp_UHyxHrPO4fX8swBN-53eyU4RJvbAgsACjmsBmG0R14PU80UXQ1WBvY9mWCnCi_T-aZ3r6cj_zSyRalUYFIM-yAJbjB1ESIZQJRLs9vfQtzZFdYb7jr0ijpKXc9JgmE-ZdqzgIZfKsNxZ6D_jR_hihqKre_s1Bq6qpY7wVme1OaeZ-pBG3KdYtRDc11MS-CSZ_RERQFM6KdcbSfuv7HBwbj7N5kd-0ZJwZ_NpadKm6RKsh2rQJ9G6iDouvPvvMHbtPykRICG_ZGjmQXalQLR_aeOHjXSNQMjK3at73F1zKq01j04JkBkBxvYMsKF1CsHXjewmiEeSIJowDdGvDA6c9zgb9G1T607qx2LljODA0FRxzWx22T1iAUOqbfepk6oP6QdnDpY7NRYaEuo0YH3qhA1oay1zCRmk6KKOT3deNZd97b49MSrjKM1YAdObQ-THWJ0EjnpPoZDQUL6PvNtOIF_GFobd5UGeZ7o7E6tWGaJmimjeuzEk-XL7xAEQePZVqKYS-kfBoWebWxT4GNjzmvCXNFna0v99fuuVZpTgxLwp4AJrcQFgmkKAOH9TEDA3unhYO7uw_-TnXSc1zy2ACdYs8C5b5w9uEht1EllEHDJX6zPHRh3Z4KqdOIrlj0YgdWcspYEKjXcY86DjPYgcacKBizBUqAJqFJq82518mdzoqEQoB5Ud4EjvFLU9j-Pl3C06fdQ_TkJ30jbQBl_--KzIAP3LTUwnnlyu2pSVPkFS2isRRVqXhNV4ycdA6bFmTnm48pWyC3qBhD7a8JVw7EaUwsZIh0q_0ZV8CdE9gWltbsTXg0xcuYiuSNmN5xSZKjujpfv3m_hc5HDyG20AdZkiOv97lRAgKh3FOpj8vRw9MSTpRNmlrJMYQSpKlN7QiapolCKtldeq9u528nQPbI4XnrRa2nBSP0qpq7L5ui6qM37swzYtyqt-d0gBI-f9hkMZ0O-qHAFVfFApyokYhTdpOQe-UNUkU-mRFAr43YHpbpnHgBfJa2yPs0kO_RSxJZneyD9yVuZFTwGfjmxjwbnA_jjFJZJxmsOB9LvfawISEXdte9Ce1Y4-9v6mcLpv_QfwjY1-fCVLraexqa350FdT_DE-RnZAjMXvbtIDlcK5qoWJvHmAHy6Xc9AdlhVRtCL8EdrkB5g-LdudK8i-hqPcioRfJrIt5lRaEKzJJQaUUHevFxgD9tMLqnwnwccVZmTe7RBVvKOwa5CGU2C4Wi7u7kDeRu0UwYzZXRyLULJE_6eoYmrrw0rGijfGVrq3x85hldDH5Hb-6gbJdpyKQ2145TPdMx/https://www.amazon.in/gp/aw/d/B0CHX7STQQ/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=42b612e91941be8b94fe5e009de8481f&hsa_cr_id=0&qid=1753085471&sr=1-1-e0fa1fdd-d857-4087-adda-5bd576b25987&ref_=sbx_be_s_sparkle_mcd_asin_0_bkgd&pd_rd_w=aEqii&content-id=amzn1.sym.cbe1d71a-30e3-45dc-b787-bad221b13c68%3Aamzn1.sym.cbe1d71a-30e3-45dc-b787-bad221b13c68&pf_rd_p=cbe1d71a-30e3-45dc-b787-bad221b13c68&pf_rd_r=RGYGFZ3JG97DVPHHYW6X&pd_rd_wg=H7U0U&pd_rd_r=e196b66a-59c8-4140-bc16-9cd77fc9c3cb
+    - img "Eligible for Prime."
+  - listitem:
+    - link "Go to detail page for \"Apple iPhone 15 Plus (128 GB) - Blue.\" Eligible for Prime.":
+      - /url: https://aax-eu.amazon.in/x/c/JF4Ko5Hibue_NqYRohc7EXwAAAGYLAlr-AMAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDEgICAWf1pJ/clv1_CEuOPUxokZA0iHrVaug0wSHdYm0mDepvrJco9BKY7Nl74X8BqzrQF_018HHz9hvVjq0yzpNb3X7OfU1TAmcAN0d6NSKcNNeuTBFXfkFeSnWzB7xylEfB8IkGXCReU-W6XJfef1D8rsFSE0M9llvwdksJOldODd93Q196UuYlQRaY37qDjF4oXlv5OpjsdqwyCjQHbdXAhZRSWWhBJNwAffQdjs-hn4wsEjvWNPQG9gUahJtJn6j8Z0wG3nKH1EB2AHnpPv3v4jxS3xU_Le0rSSiNJVyJjAz9B7yl_bPrUYAZJ0SW56eH2BSUezfuFJqqwu8cx-dVFPfKmIrSIfmUAPhFi-ovfDwLlI8C-9FHE6Fj0W5fDGy7yyiZpLUoXBybczh8qVSyj0UNuzT-N52bUz1lAp3XhtVXPtM6C2xN4Sp2M752rihBP2dM-J0mRnMYGeGRQNXmps2WYj0fYwqXp5k5RHmyoBqWXwRyXIlzu-6HH3FT4s6H-wHLa21DJ5GSkM0K_SFkG4gwwxmImXXG7TvDXAVBdkM7BA2VVBHqP5HxRyOtGwl75VQCCF3beWjjTcYigPRbLgeyrKdlg-IcNyLiMCNNsSl1iNkGud31v3Mko4-Hw7UTQ3vR8SK_SaufNVo9bMA9ez8U3rBjGLZPnQo-_pfIP09Oa1cTnvl2j6sUGxMFUx-8sDU0_RbMYuZ-wzc_8mRIxu8G_-8GDknuN241ppGHCOjHh5_FFWE5RjP_shvSRsZ74T9i8dJycPqYh5loFB3Xrmj36BjGH0HkBAd5pR3ON3tYkP9wdtUwYBbL5lkOPfFxgz9fs5yETWy4cdnifCB8wTCXo_NueuVxm6uM2Xkni_STPviJlNGO1HPq32H4xW0UyTzGk1SVgQX3uNEgp_UHyxHrPO4fX8swBN-53eyU4RJvbAgsACjmsBmG0R14PU80UXQ1WBvY9mWCnCi_T-aZ3r6cj_zSyRalUYFIM-yAJbjB1ESIZQJRLs9vfQtzZFdYb7jr0ijpKXc9JgmE-ZdqzgIZfKsNxZ6D_jR_hihqKre_s1Bq6qpY7wVme1OaeZ-pBG3KdYtRDc11MS-CSZ_RERQFM6KdcbSfuv7HBwbj7N5kd-0ZJwZ_NpadKm6RKsh2rQJ9G6iDouvPvvMHbtPykRICG_ZGjmQXalQLR_aeOHjXSNQMjK3at73F1zKq01j04JkBkBxvYMsKF1CsHXjewmiEeSIJowDdGvDA6c9zgb9G1T607qx2LljODA0FRxzWx22T1iAUOqbfepk6oP6QdnDpY7NRYaEuo0YH3qhA1oay1zCRmk6KKOT3deNZd97b49MSrjKM1YAdObQ-THWJ0EjnpPoZDQUL6PvNtOIF_GFobd5UGeZ7o7E6tWGaJmimjeuzEk-XL7xAEQePZVqKYS-kfBoWebWxT4GNjzmvCXNFna0v99fuuVZpTgxLwp4AJrcQFgmkKAOH9TEDA3unhYO7uw_-TnXSc1zy2ACdYs8C5b5w9uEht1EllEHDJX6zPHRh3Z4KqdOIrlj0YgdWcspYEKjXcY86DjPYgcacKBizBUqAJqFJq82518mdzoqEQoB5Ud4EjvFLU9j-Pl3C06fdQ_TkJ30jbQBl_--KzIAP3LTUwnnlyu2pSVPkFS2isRRVqXhNV4ycdA6bFmTnm48pWyC3qBhD7a8JVw7EaUwsZIh0q_0ZV8CdE9gWltbsTXg0xcuYiuSNmN5xSZKjujpfv3m_hc5HDyG20AdZkiOv97lRAgKh3FOpj8vRw9MSTpRNmlrJMYQSpKlN7QiapolCKtldeq9u528nQPbI4XnrRa2nBSP0qpq7L5ui6qM37swzYtyqt-d0gBI-f9hkMZ0O-qHAFVfFApyokYhTdpOQe-UNUkU-mRFAr43YHpbpnHgBfJa2yPs0kO_RSxJZneyD9yVuZFTwGfjmxjwbnA_jjFJZJxmsOB9LvfawISEXdte9Ce1Y4-9v6mcLpv_QfwjY1-fCVLraexqa350FdT_DE-RnZAjMXvbtIDlcK5qoWJvHmAHy6Xc9AdlhVRtCL8EdrkB5g-LdudK8i-hqPcioRfJrIt5lRaEKzJJQaUUHevFxgD9tMLqnwnwccVZmTe7RBVvKOwa5CGU2C4Wi7u7kDeRu0UwYzZXRyLULJE_6eoYmrrw0rGijfGVrq3x85hldDH5Hb-6gbJdpyKQ2145TPdMx/https://www.amazon.in/gp/aw/d/B0CHX6X2WW/?_encoding=UTF8&pd_rd_plhdr=t&aaxitk=42b612e91941be8b94fe5e009de8481f&hsa_cr_id=0&qid=1753085471&sr=1-2-e0fa1fdd-d857-4087-adda-5bd576b25987&ref_=sbx_be_s_sparkle_mcd_asin_1_bkgd&pd_rd_w=aEqii&content-id=amzn1.sym.cbe1d71a-30e3-45dc-b787-bad221b13c68%3Aamzn1.sym.cbe1d71a-30e3-45dc-b787-bad221b13c68&pf_rd_p=cbe1d71a-30e3-45dc-b787-bad221b13c68&pf_rd_r=RGYGFZ3JG97DVPHHYW6X&pd_rd_wg=H7U0U&pd_rd_r=e196b66a-59c8-4140-bc16-9cd77fc9c3cb
+    - img "Eligible for Prime."
+- button "Leave feedback on Sponsored ad": Sponsored
+- heading "Results" [level=2]
+- text: Check each product page for other buying options.
+- list:
+  - listitem:
+    - button "View Sponsored information or leave ad feedback": Sponsored
+    - link "Sponsored Ad - Apple iPhone 15 Plus (128 GB) - Black":
+      - /url: /sspa/click?ie=UTF8&spc=MTo1MTY2MTU3MDkwMzE4ODI1OjE3NTMwODU0NzE6c3BfYXRmOjMwMDA1NDM2NzQyODUzMjo6MDo6&url=%2FApple-iPhone-15-Plus-128%2Fdp%2FB0CHXCR9CX%2Fref%3Dsr_1_1_sspa%3Fcrid%3D16YD20ES9034X%26dib%3DeyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY%26dib_tag%3Dse%26keywords%3Diphone%2B15%2Bplus%26qid%3D1753085471%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&sp_cr=DUB
+      - heading "Sponsored Ad - Apple iPhone 15 Plus (128 GB) - Black" [level=2]: Apple iPhone 15 Plus (128 GB) - Black
+    - button "4.6 out of 5 stars, rating details"
+    - link "1,627 ratings":
+      - /url: /sspa/click?ie=UTF8&spc=MTo1MTY2MTU3MDkwMzE4ODI1OjE3NTMwODU0NzE6c3BfYXRmOjMwMDA1NDM2NzQyODUzMjo6MDo6&url=%2FApple-iPhone-15-Plus-128%2Fdp%2FB0CHXCR9CX%2Fref%3Dsr_1_1_sspa%3Fcrid%3D16YD20ES9034X%26dib%3DeyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY%26dib_tag%3Dse%26keywords%3Diphone%2B15%2Bplus%26qid%3D1753085471%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&sp_cr=DUB#customerReviews
+    - text: 200+ bought in past month Price, product page
+    - 'link "₹72,490 M.R.P: ₹89,900 M.R.P: ₹89,900"':
+      - /url: /sspa/click?ie=UTF8&spc=MTo1MTY2MTU3MDkwMzE4ODI1OjE3NTMwODU0NzE6c3BfYXRmOjMwMDA1NDM2NzQyODUzMjo6MDo6&url=%2FApple-iPhone-15-Plus-128%2Fdp%2FB0CHXCR9CX%2Fref%3Dsr_1_1_sspa%3Fcrid%3D16YD20ES9034X%26dib%3DeyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY%26dib_tag%3Dse%26keywords%3Diphone%2B15%2Bplus%26qid%3D1753085471%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&sp_cr=DUB
+    - text: (19% off) Save extra with No Cost EMI
+    - img "Amazon Prime"
+    - text: FREE delivery Wed, 30 Jul
+    - button "Add to cart"
+    - group "colours available":
+      - list
+      - link "+2 other colors/patterns":
+        - /url: /sspa/click?ie=UTF8&spc=MTo1MTY2MTU3MDkwMzE4ODI1OjE3NTMwODU0NzE6c3BfYXRmOjMwMDA1NDM2NzQyODUzMjo6MDo6&url=%2FApple-iPhone-15-Plus-128%2Fdp%2FB0CHXCR9CX%2Fref%3Dsr_1_1_sspa%3Fcrid%3D16YD20ES9034X%26dib%3DeyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY%26dib_tag%3Dse%26keywords%3Diphone%2B15%2Bplus%26qid%3D1753085471%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&sp_cr=DUB
+  - listitem:
+    - button "View Sponsored information or leave ad feedback": Sponsored
+    - link "Sponsored Ad - Apple iPhone 15 (256 GB) - Blue":
+      - /url: /sspa/click?ie=UTF8&spc=MTo1MTY2MTU3MDkwMzE4ODI1OjE3NTMwODU0NzE6c3BfYXRmOjMwMDA1NDM2NzQyNzMzMjo6MDo6&url=%2FApple-iPhone-15-256-GB%2Fdp%2FB0CHX6N27Y%2Fref%3Dsr_1_2_sspa%3Fcrid%3D16YD20ES9034X%26dib%3DeyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY%26dib_tag%3Dse%26keywords%3Diphone%2B15%2Bplus%26qid%3D1753085471%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&sp_cr=DUB
+      - heading "Sponsored Ad - Apple iPhone 15 (256 GB) - Blue" [level=2]: Apple iPhone 15 (256 GB) - Blue
+    - button "4.5 out of 5 stars, rating details"
+    - link "4,373 ratings":
+      - /url: /sspa/click?ie=UTF8&spc=MTo1MTY2MTU3MDkwMzE4ODI1OjE3NTMwODU0NzE6c3BfYXRmOjMwMDA1NDM2NzQyNzMzMjo6MDo6&url=%2FApple-iPhone-15-256-GB%2Fdp%2FB0CHX6N27Y%2Fref%3Dsr_1_2_sspa%3Fcrid%3D16YD20ES9034X%26dib%3DeyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY%26dib_tag%3Dse%26keywords%3Diphone%2B15%2Bplus%26qid%3D1753085471%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&sp_cr=DUB#customerReviews
+    - text: 1K+ bought in past month Price, product page
+    - 'link "₹70,800 M.R.P: ₹79,900 M.R.P: ₹79,900"':
+      - /url: /sspa/click?ie=UTF8&spc=MTo1MTY2MTU3MDkwMzE4ODI1OjE3NTMwODU0NzE6c3BfYXRmOjMwMDA1NDM2NzQyNzMzMjo6MDo6&url=%2FApple-iPhone-15-256-GB%2Fdp%2FB0CHX6N27Y%2Fref%3Dsr_1_2_sspa%3Fcrid%3D16YD20ES9034X%26dib%3DeyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY%26dib_tag%3Dse%26keywords%3Diphone%2B15%2Bplus%26qid%3D1753085471%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&sp_cr=DUB
+    - text: (11% off) Save extra with No Cost EMI
+    - img "Amazon Prime"
+    - text: FREE delivery Wed, 30 Jul
+    - button "Add to cart"
+    - group "colours available":
+      - list
+      - link "+4 other colors/patterns":
+        - /url: /sspa/click?ie=UTF8&spc=MTo1MTY2MTU3MDkwMzE4ODI1OjE3NTMwODU0NzE6c3BfYXRmOjMwMDA1NDM2NzQyNzMzMjo6MDo6&url=%2FApple-iPhone-15-256-GB%2Fdp%2FB0CHX6N27Y%2Fref%3Dsr_1_2_sspa%3Fcrid%3D16YD20ES9034X%26dib%3DeyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY%26dib_tag%3Dse%26keywords%3Diphone%2B15%2Bplus%26qid%3D1753085471%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1&sp_cr=DUB
+  - listitem:
+    - link "Apple iPhone 15 Plus (128 GB) - Blue":
+      - /url: /Apple-iPhone-15-Plus-128/dp/B0CHX6X2WW/ref=sr_1_3?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-3
+      - heading "Apple iPhone 15 Plus (128 GB) - Blue" [level=2]
+    - button "4.6 out of 5 stars, rating details"
+    - link "1,627 ratings":
+      - /url: /Apple-iPhone-15-Plus-128/dp/B0CHX6X2WW/ref=sr_1_3?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-3#customerReviews
+    - text: 300+ bought in past month Price, product page
+    - 'link "₹72,490 M.R.P: ₹89,900 M.R.P: ₹89,900"':
+      - /url: /Apple-iPhone-15-Plus-128/dp/B0CHX6X2WW/ref=sr_1_3?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-3
+    - text: (19% off) Save extra with No Cost EMI
+    - img "Amazon Prime"
+    - text: FREE delivery 23 Jul - 9 Aug
+    - button "Add to cart"
+    - group "colours available":
+      - list:
+        - listitem:
+          - link "Blue":
+            - /url: /Apple-iPhone-15-Plus-128/dp/B0CHX6X2WW/ref=cs_sr_dp_1?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-3
+        - listitem:
+          - link "Black":
+            - /url: /Apple-iPhone-15-Plus-128/dp/B0CHXCR9CX/ref=cs_sr_dp_2?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-3
+        - listitem:
+          - link "Pink":
+            - /url: /Apple-iPhone-15-Plus-128/dp/B0CHWYXK1R/ref=cs_sr_dp_3?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-3
+  - listitem:
+    - link "Apple iPhone 15 Plus (256 GB) - Black":
+      - /url: /Apple-iPhone-15-Plus-256/dp/B0CHX488V6/ref=sr_1_4?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-4
+      - heading "Apple iPhone 15 Plus (256 GB) - Black" [level=2]
+    - button "4.6 out of 5 stars, rating details"
+    - link "1,627 ratings":
+      - /url: /Apple-iPhone-15-Plus-256/dp/B0CHX488V6/ref=sr_1_4?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-4#customerReviews
+    - text: 100+ bought in past month Price, product page
+    - 'link "₹82,900 M.R.P: ₹99,900 M.R.P: ₹99,900"':
+      - /url: /Apple-iPhone-15-Plus-256/dp/B0CHX488V6/ref=sr_1_4?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-4
+    - text: (17% off) Save extra with No Cost EMI
+    - img "Amazon Prime"
+    - text: FREE delivery 25 - 30 Jul
+    - button "Add to cart"
+    - group "colours available":
+      - list:
+        - listitem:
+          - link "Black":
+            - /url: /Apple-iPhone-15-Plus-256/dp/B0CHX488V6/ref=cs_sr_dp_1?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-4
+        - listitem:
+          - link "Blue":
+            - /url: /Apple-iPhone-15-Plus-256/dp/B0CHX6X2WW/ref=cs_sr_dp_2?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-4
+        - listitem:
+          - link "Pink":
+            - /url: /Apple-iPhone-15-Plus-256/dp/B0CHX7STQQ/ref=cs_sr_dp_3?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-4
+  - listitem:
+    - link "Apple iPhone 15 Plus (128 GB) - Black":
+      - /url: /Apple-iPhone-15-Plus-128/dp/B0CHXCR9CX/ref=sr_1_5?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-5
+      - heading "Apple iPhone 15 Plus (128 GB) - Black" [level=2]
+    - button "4.6 out of 5 stars, rating details"
+    - link "1,627 ratings":
+      - /url: /Apple-iPhone-15-Plus-128/dp/B0CHXCR9CX/ref=sr_1_5?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-5#customerReviews
+    - text: 200+ bought in past month Price, product page
+    - 'link "₹72,490 M.R.P: ₹89,900 M.R.P: ₹89,900"':
+      - /url: /Apple-iPhone-15-Plus-128/dp/B0CHXCR9CX/ref=sr_1_5?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-5
+    - text: (19% off) Save extra with No Cost EMI
+    - img "Amazon Prime"
+    - text: FREE delivery Wed, 30 Jul
+    - button "Add to cart"
+    - group "colours available":
+      - list:
+        - listitem:
+          - link "Black":
+            - /url: /Apple-iPhone-15-Plus-128/dp/B0CHXCR9CX/ref=cs_sr_dp_1?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-5
+        - listitem:
+          - link "Blue":
+            - /url: /Apple-iPhone-15-Plus-128/dp/B0CHX6X2WW/ref=cs_sr_dp_2?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-5
+        - listitem:
+          - link "Pink":
+            - /url: /Apple-iPhone-15-Plus-128/dp/B0CHWYXK1R/ref=cs_sr_dp_3?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-5
+- heading "Trending now" [level=2]
+- button "View Sponsored information or leave ad feedback": Sponsored
+- group "Trending now":
+  - group:
+    - list:
+      - listitem "1 of 5":
+        - link "Sponsored Ad - Apple iPhone 15 Pro (1 TB) - Natural Titanium":
+          - /url: /sspa/click?ie=UTF8&spc=MTo1NTUxNjMzMDc2Njg2MDYwOjE3NTMwODU0NzE6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDA1NDM0NTk1MDIzMjo6MDo6&url=%2FApple-iPhone-15-Pro-TB%2Fdp%2FB0CHWWVSLF%2Fref%3Dsxin_14_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.739e670d-dfb3-4be0-9815-d8c5c0372e07%253Aamzn1.sym.739e670d-dfb3-4be0-9815-d8c5c0372e07%26crid%3D16YD20ES9034X%26cv_ct_cx%3Diphone%2B15%2Bplus%26keywords%3Diphone%2B15%2Bplus%26pd_rd_i%3DB0CHWWVSLF%26pd_rd_r%3D9d4ec077-8fa4-4c5e-90e9-a2212c0cbd88%26pd_rd_w%3DSjRAC%26pd_rd_wg%3DwzVSZ%26pf_rd_p%3D739e670d-dfb3-4be0-9815-d8c5c0372e07%26pf_rd_r%3DRGYGFZ3JG97DVPHHYW6X%26qid%3D1753085471%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D1-1-66673dcf-083f-43ba-b782-d4a436cc5cfb-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&sp_cr=DUB
+          - heading "Sponsored Ad - Apple iPhone 15 Pro (1 TB) - Natural Titanium" [level=2]: Apple iPhone 15 Pro (1 TB) - Natural Titanium
+        - button "4.5 out of 5 stars, rating details"
+        - link "449 ratings":
+          - /url: /sspa/click?ie=UTF8&spc=MTo1NTUxNjMzMDc2Njg2MDYwOjE3NTMwODU0NzE6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDA1NDM0NTk1MDIzMjo6MDo6&url=%2FApple-iPhone-15-Pro-TB%2Fdp%2FB0CHWWVSLF%2Fref%3Dsxin_14_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.739e670d-dfb3-4be0-9815-d8c5c0372e07%253Aamzn1.sym.739e670d-dfb3-4be0-9815-d8c5c0372e07%26crid%3D16YD20ES9034X%26cv_ct_cx%3Diphone%2B15%2Bplus%26keywords%3Diphone%2B15%2Bplus%26pd_rd_i%3DB0CHWWVSLF%26pd_rd_r%3D9d4ec077-8fa4-4c5e-90e9-a2212c0cbd88%26pd_rd_w%3DSjRAC%26pd_rd_wg%3DwzVSZ%26pf_rd_p%3D739e670d-dfb3-4be0-9815-d8c5c0372e07%26pf_rd_r%3DRGYGFZ3JG97DVPHHYW6X%26qid%3D1753085471%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D1-1-66673dcf-083f-43ba-b782-d4a436cc5cfb-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&sp_cr=DUB#customerReviews
+        - text: Price, product page
+        - 'link "₹1,59,899 M.R.P: ₹1,79,400 M.R.P: ₹1,79,400"':
+          - /url: /sspa/click?ie=UTF8&spc=MTo1NTUxNjMzMDc2Njg2MDYwOjE3NTMwODU0NzE6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDA1NDM0NTk1MDIzMjo6MDo6&url=%2FApple-iPhone-15-Pro-TB%2Fdp%2FB0CHWWVSLF%2Fref%3Dsxin_14_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.739e670d-dfb3-4be0-9815-d8c5c0372e07%253Aamzn1.sym.739e670d-dfb3-4be0-9815-d8c5c0372e07%26crid%3D16YD20ES9034X%26cv_ct_cx%3Diphone%2B15%2Bplus%26keywords%3Diphone%2B15%2Bplus%26pd_rd_i%3DB0CHWWVSLF%26pd_rd_r%3D9d4ec077-8fa4-4c5e-90e9-a2212c0cbd88%26pd_rd_w%3DSjRAC%26pd_rd_wg%3DwzVSZ%26pf_rd_p%3D739e670d-dfb3-4be0-9815-d8c5c0372e07%26pf_rd_r%3DRGYGFZ3JG97DVPHHYW6X%26qid%3D1753085471%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D1-1-66673dcf-083f-43ba-b782-d4a436cc5cfb-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&sp_cr=DUB
+        - text: (11% off) Save extra with No Cost EMI
+        - img "Amazon Prime"
+      - listitem "2 of 5":
+        - group "colours available":
+          - list
+          - link "+4 other colors/patterns":
+            - /url: /sspa/click?ie=UTF8&spc=MTo1NTUxNjMzMDc2Njg2MDYwOjE3NTMwODU0NzE6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDA1NDM0NTk0NzMzMjo6MTo6&url=%2FApple-iPhone-15-256-GB%2Fdp%2FB0CHX2WQLX%2Fref%3Dsxin_14_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.739e670d-dfb3-4be0-9815-d8c5c0372e07%253Aamzn1.sym.739e670d-dfb3-4be0-9815-d8c5c0372e07%26crid%3D16YD20ES9034X%26cv_ct_cx%3Diphone%2B15%2Bplus%26keywords%3Diphone%2B15%2Bplus%26pd_rd_i%3DB0CHX2WQLX%26pd_rd_r%3D9d4ec077-8fa4-4c5e-90e9-a2212c0cbd88%26pd_rd_w%3DSjRAC%26pd_rd_wg%3DwzVSZ%26pf_rd_p%3D739e670d-dfb3-4be0-9815-d8c5c0372e07%26pf_rd_r%3DRGYGFZ3JG97DVPHHYW6X%26qid%3D1753085471%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D1-2-66673dcf-083f-43ba-b782-d4a436cc5cfb-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&sp_cr=DUB
+        - link "Sponsored Ad - Apple iPhone 15 (256 GB) - Black":
+          - /url: /sspa/click?ie=UTF8&spc=MTo1NTUxNjMzMDc2Njg2MDYwOjE3NTMwODU0NzE6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDA1NDM0NTk0NzMzMjo6MTo6&url=%2FApple-iPhone-15-256-GB%2Fdp%2FB0CHX2WQLX%2Fref%3Dsxin_14_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.739e670d-dfb3-4be0-9815-d8c5c0372e07%253Aamzn1.sym.739e670d-dfb3-4be0-9815-d8c5c0372e07%26crid%3D16YD20ES9034X%26cv_ct_cx%3Diphone%2B15%2Bplus%26keywords%3Diphone%2B15%2Bplus%26pd_rd_i%3DB0CHX2WQLX%26pd_rd_r%3D9d4ec077-8fa4-4c5e-90e9-a2212c0cbd88%26pd_rd_w%3DSjRAC%26pd_rd_wg%3DwzVSZ%26pf_rd_p%3D739e670d-dfb3-4be0-9815-d8c5c0372e07%26pf_rd_r%3DRGYGFZ3JG97DVPHHYW6X%26qid%3D1753085471%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D1-2-66673dcf-083f-43ba-b782-d4a436cc5cfb-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&sp_cr=DUB
+          - heading "Sponsored Ad - Apple iPhone 15 (256 GB) - Black" [level=2]: Apple iPhone 15 (256 GB) - Black
+        - button "4.5 out of 5 stars, rating details"
+        - link "4,373 ratings":
+          - /url: /sspa/click?ie=UTF8&spc=MTo1NTUxNjMzMDc2Njg2MDYwOjE3NTMwODU0NzE6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDA1NDM0NTk0NzMzMjo6MTo6&url=%2FApple-iPhone-15-256-GB%2Fdp%2FB0CHX2WQLX%2Fref%3Dsxin_14_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.739e670d-dfb3-4be0-9815-d8c5c0372e07%253Aamzn1.sym.739e670d-dfb3-4be0-9815-d8c5c0372e07%26crid%3D16YD20ES9034X%26cv_ct_cx%3Diphone%2B15%2Bplus%26keywords%3Diphone%2B15%2Bplus%26pd_rd_i%3DB0CHX2WQLX%26pd_rd_r%3D9d4ec077-8fa4-4c5e-90e9-a2212c0cbd88%26pd_rd_w%3DSjRAC%26pd_rd_wg%3DwzVSZ%26pf_rd_p%3D739e670d-dfb3-4be0-9815-d8c5c0372e07%26pf_rd_r%3DRGYGFZ3JG97DVPHHYW6X%26qid%3D1753085471%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D1-2-66673dcf-083f-43ba-b782-d4a436cc5cfb-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&sp_cr=DUB#customerReviews
+        - text: 1K+ bought in past month Price, product page
+        - 'link "₹70,800 M.R.P: ₹79,900 M.R.P: ₹79,900"':
+          - /url: /sspa/click?ie=UTF8&spc=MTo1NTUxNjMzMDc2Njg2MDYwOjE3NTMwODU0NzE6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDA1NDM0NTk0NzMzMjo6MTo6&url=%2FApple-iPhone-15-256-GB%2Fdp%2FB0CHX2WQLX%2Fref%3Dsxin_14_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.739e670d-dfb3-4be0-9815-d8c5c0372e07%253Aamzn1.sym.739e670d-dfb3-4be0-9815-d8c5c0372e07%26crid%3D16YD20ES9034X%26cv_ct_cx%3Diphone%2B15%2Bplus%26keywords%3Diphone%2B15%2Bplus%26pd_rd_i%3DB0CHX2WQLX%26pd_rd_r%3D9d4ec077-8fa4-4c5e-90e9-a2212c0cbd88%26pd_rd_w%3DSjRAC%26pd_rd_wg%3DwzVSZ%26pf_rd_p%3D739e670d-dfb3-4be0-9815-d8c5c0372e07%26pf_rd_r%3DRGYGFZ3JG97DVPHHYW6X%26qid%3D1753085471%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D1-2-66673dcf-083f-43ba-b782-d4a436cc5cfb-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&sp_cr=DUB
+        - text: (11% off) Save extra with No Cost EMI
+        - img "Amazon Prime"
+      - listitem "3 of 5":
+        - link "Sponsored Ad - Apple iPhone 15 Pro Max (512 GB) - Black Titanium":
+          - /url: /sspa/click?ie=UTF8&spc=MTo1NTUxNjMzMDc2Njg2MDYwOjE3NTMwODU0NzE6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDA1NDM0NTk1MjUzMjo6Mjo6&url=%2FApple-iPhone-Pro-Max-512%2Fdp%2FB0CHX3X7TL%2Fref%3Dsxin_14_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.739e670d-dfb3-4be0-9815-d8c5c0372e07%253Aamzn1.sym.739e670d-dfb3-4be0-9815-d8c5c0372e07%26crid%3D16YD20ES9034X%26cv_ct_cx%3Diphone%2B15%2Bplus%26keywords%3Diphone%2B15%2Bplus%26pd_rd_i%3DB0CHX3X7TL%26pd_rd_r%3D9d4ec077-8fa4-4c5e-90e9-a2212c0cbd88%26pd_rd_w%3DSjRAC%26pd_rd_wg%3DwzVSZ%26pf_rd_p%3D739e670d-dfb3-4be0-9815-d8c5c0372e07%26pf_rd_r%3DRGYGFZ3JG97DVPHHYW6X%26qid%3D1753085471%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D1-3-66673dcf-083f-43ba-b782-d4a436cc5cfb-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&sp_cr=DUB
+          - heading "Sponsored Ad - Apple iPhone 15 Pro Max (512 GB) - Black Titanium" [level=2]: Apple iPhone 15 Pro Max (512 GB) - Black Titanium
+        - button "4.5 out of 5 stars, rating details"
+        - link "458 ratings":
+          - /url: /sspa/click?ie=UTF8&spc=MTo1NTUxNjMzMDc2Njg2MDYwOjE3NTMwODU0NzE6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDA1NDM0NTk1MjUzMjo6Mjo6&url=%2FApple-iPhone-Pro-Max-512%2Fdp%2FB0CHX3X7TL%2Fref%3Dsxin_14_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.739e670d-dfb3-4be0-9815-d8c5c0372e07%253Aamzn1.sym.739e670d-dfb3-4be0-9815-d8c5c0372e07%26crid%3D16YD20ES9034X%26cv_ct_cx%3Diphone%2B15%2Bplus%26keywords%3Diphone%2B15%2Bplus%26pd_rd_i%3DB0CHX3X7TL%26pd_rd_r%3D9d4ec077-8fa4-4c5e-90e9-a2212c0cbd88%26pd_rd_w%3DSjRAC%26pd_rd_wg%3DwzVSZ%26pf_rd_p%3D739e670d-dfb3-4be0-9815-d8c5c0372e07%26pf_rd_r%3DRGYGFZ3JG97DVPHHYW6X%26qid%3D1753085471%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D1-3-66673dcf-083f-43ba-b782-d4a436cc5cfb-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&sp_cr=DUB#customerReviews
+        - text: Price, product page
+        - 'link "₹1,54,900 M.R.P: ₹1,79,900 M.R.P: ₹1,79,900"':
+          - /url: /sspa/click?ie=UTF8&spc=MTo1NTUxNjMzMDc2Njg2MDYwOjE3NTMwODU0NzE6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDA1NDM0NTk1MjUzMjo6Mjo6&url=%2FApple-iPhone-Pro-Max-512%2Fdp%2FB0CHX3X7TL%2Fref%3Dsxin_14_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.739e670d-dfb3-4be0-9815-d8c5c0372e07%253Aamzn1.sym.739e670d-dfb3-4be0-9815-d8c5c0372e07%26crid%3D16YD20ES9034X%26cv_ct_cx%3Diphone%2B15%2Bplus%26keywords%3Diphone%2B15%2Bplus%26pd_rd_i%3DB0CHX3X7TL%26pd_rd_r%3D9d4ec077-8fa4-4c5e-90e9-a2212c0cbd88%26pd_rd_w%3DSjRAC%26pd_rd_wg%3DwzVSZ%26pf_rd_p%3D739e670d-dfb3-4be0-9815-d8c5c0372e07%26pf_rd_r%3DRGYGFZ3JG97DVPHHYW6X%26qid%3D1753085471%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D1-3-66673dcf-083f-43ba-b782-d4a436cc5cfb-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&sp_cr=DUB
+        - text: (14% off) Save extra with No Cost EMI
+        - img "Amazon Prime"
+      - listitem "4 of 5":
+        - group "colours available":
+          - list
+          - link "+3 other colors/patterns":
+            - /url: /sspa/click?ie=UTF8&spc=MTo1NTUxNjMzMDc2Njg2MDYwOjE3NTMwODU0NzE6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDMzNDI1MjYyNDgzMjo6Mzo6&url=%2FiPhone-16-Pro-256-GB%2Fdp%2FB0DGJC8DG8%2Fref%3Dsxin_14_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.739e670d-dfb3-4be0-9815-d8c5c0372e07%253Aamzn1.sym.739e670d-dfb3-4be0-9815-d8c5c0372e07%26crid%3D16YD20ES9034X%26cv_ct_cx%3Diphone%2B15%2Bplus%26keywords%3Diphone%2B15%2Bplus%26pd_rd_i%3DB0DGJC8DG8%26pd_rd_r%3D9d4ec077-8fa4-4c5e-90e9-a2212c0cbd88%26pd_rd_w%3DSjRAC%26pd_rd_wg%3DwzVSZ%26pf_rd_p%3D739e670d-dfb3-4be0-9815-d8c5c0372e07%26pf_rd_r%3DRGYGFZ3JG97DVPHHYW6X%26qid%3D1753085471%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D1-4-66673dcf-083f-43ba-b782-d4a436cc5cfb-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&sp_cr=DUB
+        - 'link "Sponsored Ad - iPhone 16 Pro 256 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Black Titanium"':
+          - /url: /sspa/click?ie=UTF8&spc=MTo1NTUxNjMzMDc2Njg2MDYwOjE3NTMwODU0NzE6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDMzNDI1MjYyNDgzMjo6Mzo6&url=%2FiPhone-16-Pro-256-GB%2Fdp%2FB0DGJC8DG8%2Fref%3Dsxin_14_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.739e670d-dfb3-4be0-9815-d8c5c0372e07%253Aamzn1.sym.739e670d-dfb3-4be0-9815-d8c5c0372e07%26crid%3D16YD20ES9034X%26cv_ct_cx%3Diphone%2B15%2Bplus%26keywords%3Diphone%2B15%2Bplus%26pd_rd_i%3DB0DGJC8DG8%26pd_rd_r%3D9d4ec077-8fa4-4c5e-90e9-a2212c0cbd88%26pd_rd_w%3DSjRAC%26pd_rd_wg%3DwzVSZ%26pf_rd_p%3D739e670d-dfb3-4be0-9815-d8c5c0372e07%26pf_rd_r%3DRGYGFZ3JG97DVPHHYW6X%26qid%3D1753085471%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D1-4-66673dcf-083f-43ba-b782-d4a436cc5cfb-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&sp_cr=DUB
+          - 'heading "Sponsored Ad - iPhone 16 Pro 256 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Black Titanium" [level=2]': "iPhone 16 Pro 256 GB: 5G Mobile Phone with Camera Control, 4K 120 fps Dolby Vision and a Huge Leap in Battery Life. Works with AirPods; Black Titanium"
+        - button "4.4 out of 5 stars, rating details"
+        - link "385 ratings":
+          - /url: /sspa/click?ie=UTF8&spc=MTo1NTUxNjMzMDc2Njg2MDYwOjE3NTMwODU0NzE6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDMzNDI1MjYyNDgzMjo6Mzo6&url=%2FiPhone-16-Pro-256-GB%2Fdp%2FB0DGJC8DG8%2Fref%3Dsxin_14_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.739e670d-dfb3-4be0-9815-d8c5c0372e07%253Aamzn1.sym.739e670d-dfb3-4be0-9815-d8c5c0372e07%26crid%3D16YD20ES9034X%26cv_ct_cx%3Diphone%2B15%2Bplus%26keywords%3Diphone%2B15%2Bplus%26pd_rd_i%3DB0DGJC8DG8%26pd_rd_r%3D9d4ec077-8fa4-4c5e-90e9-a2212c0cbd88%26pd_rd_w%3DSjRAC%26pd_rd_wg%3DwzVSZ%26pf_rd_p%3D739e670d-dfb3-4be0-9815-d8c5c0372e07%26pf_rd_r%3DRGYGFZ3JG97DVPHHYW6X%26qid%3D1753085471%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D1-4-66673dcf-083f-43ba-b782-d4a436cc5cfb-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&sp_cr=DUB#customerReviews
+        - text: 200+ bought in past month Price, product page
+        - 'link "₹1,21,900 M.R.P: ₹1,29,900 M.R.P: ₹1,29,900"':
+          - /url: /sspa/click?ie=UTF8&spc=MTo1NTUxNjMzMDc2Njg2MDYwOjE3NTMwODU0NzE6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDMzNDI1MjYyNDgzMjo6Mzo6&url=%2FiPhone-16-Pro-256-GB%2Fdp%2FB0DGJC8DG8%2Fref%3Dsxin_14_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.739e670d-dfb3-4be0-9815-d8c5c0372e07%253Aamzn1.sym.739e670d-dfb3-4be0-9815-d8c5c0372e07%26crid%3D16YD20ES9034X%26cv_ct_cx%3Diphone%2B15%2Bplus%26keywords%3Diphone%2B15%2Bplus%26pd_rd_i%3DB0DGJC8DG8%26pd_rd_r%3D9d4ec077-8fa4-4c5e-90e9-a2212c0cbd88%26pd_rd_w%3DSjRAC%26pd_rd_wg%3DwzVSZ%26pf_rd_p%3D739e670d-dfb3-4be0-9815-d8c5c0372e07%26pf_rd_r%3DRGYGFZ3JG97DVPHHYW6X%26qid%3D1753085471%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D1-4-66673dcf-083f-43ba-b782-d4a436cc5cfb-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&sp_cr=DUB
+        - text: (6% off) Save extra with No Cost EMI
+        - img "Amazon Prime"
+      - listitem "5 of 5":
+        - group "colours available":
+          - list
+          - link "+2 other colors/patterns":
+            - /url: /sspa/click?ie=UTF8&spc=MTo1NTUxNjMzMDc2Njg2MDYwOjE3NTMwODU0NzE6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDA1NDM0NTk1MDUzMjo6NDo6&url=%2FApple-iPhone-15-Plus-256%2Fdp%2FB0CHX488V6%2Fref%3Dsxin_14_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.739e670d-dfb3-4be0-9815-d8c5c0372e07%253Aamzn1.sym.739e670d-dfb3-4be0-9815-d8c5c0372e07%26crid%3D16YD20ES9034X%26cv_ct_cx%3Diphone%2B15%2Bplus%26keywords%3Diphone%2B15%2Bplus%26pd_rd_i%3DB0CHX488V6%26pd_rd_r%3D9d4ec077-8fa4-4c5e-90e9-a2212c0cbd88%26pd_rd_w%3DSjRAC%26pd_rd_wg%3DwzVSZ%26pf_rd_p%3D739e670d-dfb3-4be0-9815-d8c5c0372e07%26pf_rd_r%3DRGYGFZ3JG97DVPHHYW6X%26qid%3D1753085471%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D1-5-66673dcf-083f-43ba-b782-d4a436cc5cfb-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&sp_cr=DUB
+        - link "Sponsored Ad - Apple iPhone 15 Plus (256 GB) - Black":
+          - /url: /sspa/click?ie=UTF8&spc=MTo1NTUxNjMzMDc2Njg2MDYwOjE3NTMwODU0NzE6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDA1NDM0NTk1MDUzMjo6NDo6&url=%2FApple-iPhone-15-Plus-256%2Fdp%2FB0CHX488V6%2Fref%3Dsxin_14_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.739e670d-dfb3-4be0-9815-d8c5c0372e07%253Aamzn1.sym.739e670d-dfb3-4be0-9815-d8c5c0372e07%26crid%3D16YD20ES9034X%26cv_ct_cx%3Diphone%2B15%2Bplus%26keywords%3Diphone%2B15%2Bplus%26pd_rd_i%3DB0CHX488V6%26pd_rd_r%3D9d4ec077-8fa4-4c5e-90e9-a2212c0cbd88%26pd_rd_w%3DSjRAC%26pd_rd_wg%3DwzVSZ%26pf_rd_p%3D739e670d-dfb3-4be0-9815-d8c5c0372e07%26pf_rd_r%3DRGYGFZ3JG97DVPHHYW6X%26qid%3D1753085471%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D1-5-66673dcf-083f-43ba-b782-d4a436cc5cfb-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&sp_cr=DUB
+          - heading "Sponsored Ad - Apple iPhone 15 Plus (256 GB) - Black" [level=2]: Apple iPhone 15 Plus (256 GB) - Black
+        - button "4.6 out of 5 stars, rating details"
+        - link "1,627 ratings":
+          - /url: /sspa/click?ie=UTF8&spc=MTo1NTUxNjMzMDc2Njg2MDYwOjE3NTMwODU0NzE6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDA1NDM0NTk1MDUzMjo6NDo6&url=%2FApple-iPhone-15-Plus-256%2Fdp%2FB0CHX488V6%2Fref%3Dsxin_14_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.739e670d-dfb3-4be0-9815-d8c5c0372e07%253Aamzn1.sym.739e670d-dfb3-4be0-9815-d8c5c0372e07%26crid%3D16YD20ES9034X%26cv_ct_cx%3Diphone%2B15%2Bplus%26keywords%3Diphone%2B15%2Bplus%26pd_rd_i%3DB0CHX488V6%26pd_rd_r%3D9d4ec077-8fa4-4c5e-90e9-a2212c0cbd88%26pd_rd_w%3DSjRAC%26pd_rd_wg%3DwzVSZ%26pf_rd_p%3D739e670d-dfb3-4be0-9815-d8c5c0372e07%26pf_rd_r%3DRGYGFZ3JG97DVPHHYW6X%26qid%3D1753085471%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D1-5-66673dcf-083f-43ba-b782-d4a436cc5cfb-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&sp_cr=DUB#customerReviews
+        - text: 100+ bought in past month Price, product page
+        - 'link "₹82,900 M.R.P: ₹99,900 M.R.P: ₹99,900"':
+          - /url: /sspa/click?ie=UTF8&spc=MTo1NTUxNjMzMDc2Njg2MDYwOjE3NTMwODU0NzE6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDA1NDM0NTk1MDUzMjo6NDo6&url=%2FApple-iPhone-15-Plus-256%2Fdp%2FB0CHX488V6%2Fref%3Dsxin_14_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.739e670d-dfb3-4be0-9815-d8c5c0372e07%253Aamzn1.sym.739e670d-dfb3-4be0-9815-d8c5c0372e07%26crid%3D16YD20ES9034X%26cv_ct_cx%3Diphone%2B15%2Bplus%26keywords%3Diphone%2B15%2Bplus%26pd_rd_i%3DB0CHX488V6%26pd_rd_r%3D9d4ec077-8fa4-4c5e-90e9-a2212c0cbd88%26pd_rd_w%3DSjRAC%26pd_rd_wg%3DwzVSZ%26pf_rd_p%3D739e670d-dfb3-4be0-9815-d8c5c0372e07%26pf_rd_r%3DRGYGFZ3JG97DVPHHYW6X%26qid%3D1753085471%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D1-5-66673dcf-083f-43ba-b782-d4a436cc5cfb-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1&sp_cr=DUB
+        - text: (17% off) Save extra with No Cost EMI
+        - img "Amazon Prime"
+- heading "More results" [level=2]
+- list:
+  - listitem:
+    - link "Apple iPhone 15 Plus (256 GB) - Pink":
+      - /url: /Apple-iPhone-15-Plus-256/dp/B0CHX7STQQ/ref=sr_1_6?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-6
+      - heading "Apple iPhone 15 Plus (256 GB) - Pink" [level=2]
+    - button "4.6 out of 5 stars, rating details"
+    - link "1,627 ratings":
+      - /url: /Apple-iPhone-15-Plus-256/dp/B0CHX7STQQ/ref=sr_1_6?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-6#customerReviews
+    - text: 50+ bought in past month Price, product page
+    - 'link "₹82,900 M.R.P: ₹99,600 M.R.P: ₹99,600"':
+      - /url: /Apple-iPhone-15-Plus-256/dp/B0CHX7STQQ/ref=sr_1_6?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-6
+    - text: (17% off) Save extra with No Cost EMI
+    - img "Amazon Prime"
+    - text: FREE delivery Wed, 30 Jul
+    - button "Add to cart"
+    - group "colours available":
+      - list:
+        - listitem:
+          - link "Pink":
+            - /url: /Apple-iPhone-15-Plus-256/dp/B0CHX7STQQ/ref=cs_sr_dp_1?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-6
+        - listitem:
+          - link "Black":
+            - /url: /Apple-iPhone-15-Plus-256/dp/B0CHX488V6/ref=cs_sr_dp_2?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-6
+        - listitem:
+          - link "Blue":
+            - /url: /Apple-iPhone-15-Plus-256/dp/B0CHX6X2WW/ref=cs_sr_dp_3?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-6
+  - listitem:
+    - link "Apple iPhone 15 Plus (128 GB) - Pink":
+      - /url: /Apple-iPhone-15-Plus-128/dp/B0CHWYXK1R/ref=sr_1_7?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-7
+      - heading "Apple iPhone 15 Plus (128 GB) - Pink" [level=2]
+    - button "4.6 out of 5 stars, rating details"
+    - link "1,627 ratings":
+      - /url: /Apple-iPhone-15-Plus-128/dp/B0CHWYXK1R/ref=sr_1_7?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-7#customerReviews
+    - text: 100+ bought in past month Price, product page
+    - 'link "₹72,490 M.R.P: ₹89,900 M.R.P: ₹89,900"':
+      - /url: /Apple-iPhone-15-Plus-128/dp/B0CHWYXK1R/ref=sr_1_7?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-7
+    - text: (19% off) Save extra with No Cost EMI
+    - img "Amazon Prime"
+    - text: FREE delivery Wed, 30 Jul
+    - button "Add to cart"
+    - group "colours available":
+      - list:
+        - listitem:
+          - link "Pink":
+            - /url: /Apple-iPhone-15-Plus-128/dp/B0CHWYXK1R/ref=cs_sr_dp_1?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-7
+        - listitem:
+          - link "Black":
+            - /url: /Apple-iPhone-15-Plus-128/dp/B0CHXCR9CX/ref=cs_sr_dp_2?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-7
+        - listitem:
+          - link "Blue":
+            - /url: /Apple-iPhone-15-Plus-128/dp/B0CHX6X2WW/ref=cs_sr_dp_3?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-7
+  - listitem:
+    - 'link "iPhone 16 Plus 128 GB: 5G Mobile Phone with Camera Control, A18 Chip and a Big Boost in Battery Life. Works with AirPods; Teal"':
+      - /url: /iPhone-16-Plus-128-GB/dp/B0DGJCSH8R/ref=sr_1_8?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-8
+      - 'heading "iPhone 16 Plus 128 GB: 5G Mobile Phone with Camera Control, A18 Chip and a Big Boost in Battery Life. Works with AirPods; Teal" [level=2]'
+    - button "4.6 out of 5 stars, rating details"
+    - link "440 ratings":
+      - /url: /iPhone-16-Plus-128-GB/dp/B0DGJCSH8R/ref=sr_1_8?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-8#customerReviews
+    - text: 200+ bought in past month Price, product page
+    - 'link "₹83,500 M.R.P: ₹89,900 M.R.P: ₹89,900"':
+      - /url: /iPhone-16-Plus-128-GB/dp/B0DGJCSH8R/ref=sr_1_8?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-8
+    - text: (7% off) Save extra with No Cost EMI
+    - img "Amazon Prime"
+    - text: FREE delivery Wed, 30 Jul
+    - button "Add to cart"
+    - group "colours available":
+      - list:
+        - listitem:
+          - link "Teal":
+            - /url: /iPhone-16-Plus-128-GB/dp/B0DGJCSH8R/ref=cs_sr_dp_1?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-8
+        - listitem:
+          - link "Black":
+            - /url: /iPhone-16-Plus-128-GB/dp/B0DGJBY734/ref=cs_sr_dp_2?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-8
+        - listitem:
+          - link "Pink":
+            - /url: /iPhone-16-Plus-128-GB/dp/B0DGJ6JS1D/ref=cs_sr_dp_3?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-8
+        - listitem:
+          - link "Ultramarine":
+            - /url: /iPhone-16-Plus-128-GB/dp/B0DGJ65N7V/ref=cs_sr_dp_4?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-8
+        - listitem:
+          - link "White":
+            - /url: /iPhone-16-Plus-128-GB/dp/B0DGJ8JQZD/ref=cs_sr_dp_5?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-8
+  - listitem:
+    - link "Apple iPhone 15 (256 GB) - Blue":
+      - /url: /Apple-iPhone-15-256-GB/dp/B0CHX6N27Y/ref=sr_1_9?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-9
+      - heading "Apple iPhone 15 (256 GB) - Blue" [level=2]
+    - button "4.5 out of 5 stars, rating details"
+    - link "4,373 ratings":
+      - /url: /Apple-iPhone-15-256-GB/dp/B0CHX6N27Y/ref=sr_1_9?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-9#customerReviews
+    - text: 1K+ bought in past month Price, product page
+    - 'link "₹70,800 M.R.P: ₹79,900 M.R.P: ₹79,900"':
+      - /url: /Apple-iPhone-15-256-GB/dp/B0CHX6N27Y/ref=sr_1_9?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-9
+    - text: (11% off) Save extra with No Cost EMI
+    - img "Amazon Prime"
+    - text: FREE delivery Wed, 30 Jul
+    - button "Add to cart"
+    - group "colours available":
+      - list:
+        - listitem:
+          - link "Blue":
+            - /url: /Apple-iPhone-15-256-GB/dp/B0CHX6N27Y/ref=cs_sr_dp_1?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-9
+        - listitem:
+          - link "Black":
+            - /url: /Apple-iPhone-15-256-GB/dp/B0CHX2WQLX/ref=cs_sr_dp_2?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-9
+        - listitem:
+          - link "Green":
+            - /url: /Apple-iPhone-15-256-GB/dp/B0CHX41VNZ/ref=cs_sr_dp_3?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-9
+        - listitem:
+          - link "Pink":
+            - /url: /Apple-iPhone-15-256-GB/dp/B0CHX4CRND/ref=cs_sr_dp_4?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-9
+        - listitem:
+          - link "Yellow":
+            - /url: /Apple-iPhone-15-256-GB/dp/B0CHX8JCXN/ref=cs_sr_dp_5?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-9
+  - listitem:
+    - link "Apple iPhone 15 (128 GB) - Black":
+      - /url: /Apple-iPhone-15-128-GB/dp/B0CHX1W1XY/ref=sr_1_10?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-10
+      - heading "Apple iPhone 15 (128 GB) - Black" [level=2]
+    - button "4.5 out of 5 stars, rating details"
+    - link "4,373 ratings":
+      - /url: /Apple-iPhone-15-128-GB/dp/B0CHX1W1XY/ref=sr_1_10?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-10#customerReviews
+    - text: 5K+ bought in past month Price, product page
+    - 'link "₹60,900 M.R.P: ₹69,900 M.R.P: ₹69,900"':
+      - /url: /Apple-iPhone-15-128-GB/dp/B0CHX1W1XY/ref=sr_1_10?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-10
+    - text: (13% off) Up to 5% back with Amazon Pay ICICI card
+    - img "Amazon Prime"
+    - text: FREE delivery Fri, 1 Aug
+    - button "Add to cart"
+    - group "colours available":
+      - list:
+        - listitem:
+          - link "Black":
+            - /url: /Apple-iPhone-15-128-GB/dp/B0CHX1W1XY/ref=cs_sr_dp_1?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-10
+        - listitem:
+          - link "Blue":
+            - /url: /Apple-iPhone-15-128-GB/dp/B0CHX2F5QT/ref=cs_sr_dp_2?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-10
+        - listitem:
+          - link "Green":
+            - /url: /Apple-iPhone-15-128-GB/dp/B0CHX41VNZ/ref=cs_sr_dp_3?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-10
+        - listitem:
+          - link "Pink":
+            - /url: /Apple-iPhone-15-128-GB/dp/B0CHX3TW6X/ref=cs_sr_dp_4?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-10
+        - listitem:
+          - link "Yellow":
+            - /url: /Apple-iPhone-15-128-GB/dp/B0CHX8JCXN/ref=cs_sr_dp_5?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-10
+  - listitem:
+    - link "Apple iPhone 15 (128 GB) - Blue":
+      - /url: /Apple-iPhone-15-128-GB/dp/B0CHX2F5QT/ref=sr_1_11?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-11
+      - heading "Apple iPhone 15 (128 GB) - Blue" [level=2]
+    - button "4.5 out of 5 stars, rating details"
+    - link "4,373 ratings":
+      - /url: /Apple-iPhone-15-128-GB/dp/B0CHX2F5QT/ref=sr_1_11?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-11#customerReviews
+    - text: 5K+ bought in past month Price, product page
+    - 'link "₹60,900 M.R.P: ₹69,900 M.R.P: ₹69,900"':
+      - /url: /Apple-iPhone-15-128-GB/dp/B0CHX2F5QT/ref=sr_1_11?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-11
+    - text: (13% off) Up to 5% back with Amazon Pay ICICI card
+    - img "Amazon Prime"
+    - text: FREE delivery 23 Jul - 3 Aug
+    - button "Add to cart"
+    - group "colours available":
+      - list:
+        - listitem:
+          - link "Blue":
+            - /url: /Apple-iPhone-15-128-GB/dp/B0CHX2F5QT/ref=cs_sr_dp_1?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-11
+        - listitem:
+          - link "Black":
+            - /url: /Apple-iPhone-15-128-GB/dp/B0CHX1W1XY/ref=cs_sr_dp_2?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-11
+        - listitem:
+          - link "Green":
+            - /url: /Apple-iPhone-15-128-GB/dp/B0CHX41VNZ/ref=cs_sr_dp_3?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-11
+        - listitem:
+          - link "Pink":
+            - /url: /Apple-iPhone-15-128-GB/dp/B0CHX3TW6X/ref=cs_sr_dp_4?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-11
+        - listitem:
+          - link "Yellow":
+            - /url: /Apple-iPhone-15-128-GB/dp/B0CHX8JCXN/ref=cs_sr_dp_5?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-11
+  - listitem:
+    - link "Apple iPhone 15 (512 GB) - Pink":
+      - /url: /Apple-iPhone-15-512-GB/dp/B0CHWWNKS6/ref=sr_1_12?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-12
+      - heading "Apple iPhone 15 (512 GB) - Pink" [level=2]
+    - button "4.5 out of 5 stars, rating details"
+    - link "4,373 ratings":
+      - /url: /Apple-iPhone-15-512-GB/dp/B0CHWWNKS6/ref=sr_1_12?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-12#customerReviews
+    - text: Price, product page
+    - 'link "₹82,900 M.R.P: ₹99,900 M.R.P: ₹99,900"':
+      - /url: /Apple-iPhone-15-512-GB/dp/B0CHWWNKS6/ref=sr_1_12?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-12
+    - text: (17% off) Save extra with No Cost EMI
+    - img "Amazon Prime"
+    - text: FREE delivery 24 - 30 Jul
+    - button "Add to cart"
+    - group "colours available":
+      - list:
+        - listitem:
+          - link "Pink":
+            - /url: /Apple-iPhone-15-512-GB/dp/B0CHWWNKS6/ref=cs_sr_dp_1?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-12
+        - listitem:
+          - link "Black":
+            - /url: /Apple-iPhone-15-512-GB/dp/B0CHX1W1XY/ref=cs_sr_dp_2?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-12
+        - listitem:
+          - link "Blue":
+            - /url: /Apple-iPhone-15-512-GB/dp/B0CHXB1PT6/ref=cs_sr_dp_3?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-12
+        - listitem:
+          - link "Green":
+            - /url: /Apple-iPhone-15-512-GB/dp/B0CHX41VNZ/ref=cs_sr_dp_4?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-12
+        - listitem:
+          - link "Yellow":
+            - /url: /Apple-iPhone-15-512-GB/dp/B0CHX3QB9M/ref=cs_sr_dp_5?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-12
+  - listitem:
+    - 'link "iPhone 16 Plus 128 GB: 5G Mobile Phone with Camera Control, A18 Chip and a Big Boost in Battery Life. Works with AirPods; Black"':
+      - /url: /iPhone-16-Plus-128-GB/dp/B0DGJBY734/ref=sr_1_13?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-13
+      - 'heading "iPhone 16 Plus 128 GB: 5G Mobile Phone with Camera Control, A18 Chip and a Big Boost in Battery Life. Works with AirPods; Black" [level=2]'
+    - button "4.6 out of 5 stars, rating details"
+    - link "440 ratings":
+      - /url: /iPhone-16-Plus-128-GB/dp/B0DGJBY734/ref=sr_1_13?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-13#customerReviews
+    - text: 300+ bought in past month Price, product page
+    - 'link "₹83,500 M.R.P: ₹89,900 M.R.P: ₹89,900"':
+      - /url: /iPhone-16-Plus-128-GB/dp/B0DGJBY734/ref=sr_1_13?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-13
+    - text: (7% off) Save extra with No Cost EMI
+    - img "Amazon Prime"
+    - text: FREE delivery Wed, 30 Jul
+    - button "Add to cart"
+    - group "colours available":
+      - list:
+        - listitem:
+          - link "Black":
+            - /url: /iPhone-16-Plus-128-GB/dp/B0DGJBY734/ref=cs_sr_dp_1?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-13
+        - listitem:
+          - link "Pink":
+            - /url: /iPhone-16-Plus-128-GB/dp/B0DGJ6JS1D/ref=cs_sr_dp_2?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-13
+        - listitem:
+          - link "Teal":
+            - /url: /iPhone-16-Plus-128-GB/dp/B0DGJCSH8R/ref=cs_sr_dp_3?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-13
+        - listitem:
+          - link "Ultramarine":
+            - /url: /iPhone-16-Plus-128-GB/dp/B0DGJ65N7V/ref=cs_sr_dp_4?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-13
+        - listitem:
+          - link "White":
+            - /url: /iPhone-16-Plus-128-GB/dp/B0DGJ8JQZD/ref=cs_sr_dp_5?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-13
+  - listitem:
+    - link "mobistyle Designed for iPhone 15 Plus Tulip Flower Pattern Print Individual Camera Protection Design for Women Teen Girls Phone Back Cover Case (Tulip Pink)":
+      - /url: /mobistyle-iPhone-15-Plus-Individual/dp/B0FB99L3RF/ref=sr_1_14?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-14
+      - heading "mobistyle Designed for iPhone 15 Plus Tulip Flower Pattern Print Individual Camera Protection Design for Women Teen Girls Phone Back Cover Case (Tulip Pink)" [level=2]
+    - button "4.0 out of 5 stars, rating details"
+    - link "551 ratings":
+      - /url: /mobistyle-iPhone-15-Plus-Individual/dp/B0FB99L3RF/ref=sr_1_14?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-14#customerReviews
+    - text: 50+ bought in past month
+    - link "Limited time deal":
+      - /url: /deals
+    - text: Price, product page
+    - 'link "₹379 M.R.P: ₹999 M.R.P: ₹999"':
+      - /url: /mobistyle-iPhone-15-Plus-Individual/dp/B0FB99L3RF/ref=sr_1_14?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-14
+    - text: (62% off) Buy 2 items, get 4% off FREE delivery Wed, 30 Jul on first order
+    - button "Add to cart"
+    - group "colours available":
+      - list:
+        - listitem:
+          - link "Bling Tulip Pink":
+            - /url: /mobistyle-iPhone-15-Plus-Individual/dp/B0FB99L3RF/ref=cs_sr_dp_1?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-14
+        - listitem:
+          - link "3D Plating Black":
+            - /url: /mobistyle-iPhone-15-Plus-Individual/dp/B0D76R86R7/ref=cs_sr_dp_2?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-14
+        - listitem:
+          - link "3D Plating Blue":
+            - /url: /mobistyle-iPhone-15-Plus-Individual/dp/B0D76R61FB/ref=cs_sr_dp_3?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-14
+        - listitem:
+          - link "3D Plating Gold":
+            - /url: /mobistyle-iPhone-15-Plus-Individual/dp/B0D76S6CYV/ref=cs_sr_dp_4?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-14
+        - listitem:
+          - link "3D Plating Pink":
+            - /url: /mobistyle-iPhone-15-Plus-Individual/dp/B0D76RQJCC/ref=cs_sr_dp_5?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-14
+        - listitem:
+          - link "3D Plating Purple":
+            - /url: /mobistyle-iPhone-15-Plus-Individual/dp/B0D76SQFPD/ref=cs_sr_dp_6?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-14
+      - link "+19 other colors/patterns":
+        - /url: /mobistyle-iPhone-15-Plus-Individual/dp/B0FB99L3RF/ref=cs_sr_dp_n?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-14
+        - text: "+19"
+  - listitem:
+    - link "YATWIN Silicone Back Case for iPhone 15 Plus, Soft-Touch Phone Back Cover for Apple iPhone 15 Plus - Yellow":
+      - /url: /YATWIN-iPhone-15-Plus-Soft-Touch/dp/B0F7KN1S32/ref=sr_1_15?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-15
+      - heading "YATWIN Silicone Back Case for iPhone 15 Plus, Soft-Touch Phone Back Cover for Apple iPhone 15 Plus - Yellow" [level=2]
+    - button "4.0 out of 5 stars, rating details"
+    - link "4,735 ratings":
+      - /url: /YATWIN-iPhone-15-Plus-Soft-Touch/dp/B0F7KN1S32/ref=sr_1_15?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-15#customerReviews
+    - link "Limited time deal":
+      - /url: /deals
+    - text: Price, product page
+    - 'link "₹285 M.R.P: ₹450 M.R.P: ₹450"':
+      - /url: /YATWIN-iPhone-15-Plus-Soft-Touch/dp/B0F7KN1S32/ref=sr_1_15?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-15
+    - text: (37% off) FREE delivery Wed, 30 Jul on first order
+    - button "Add to cart"
+    - group "colours available":
+      - list:
+        - listitem:
+          - link "Yellow":
+            - /url: /YATWIN-iPhone-15-Plus-Soft-Touch/dp/B0F7KN1S32/ref=cs_sr_dp_1?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-15
+        - listitem:
+          - link "Black":
+            - /url: /YATWIN-iPhone-15-Plus-Soft-Touch/dp/B0F7KLJKD2/ref=cs_sr_dp_2?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-15
+        - listitem:
+          - link "Dark Blue":
+            - /url: /YATWIN-iPhone-15-Plus-Soft-Touch/dp/B0F7KP264L/ref=cs_sr_dp_3?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-15
+        - listitem:
+          - link "Dark Green":
+            - /url: /YATWIN-iPhone-15-Plus-Soft-Touch/dp/B0F7KL69F9/ref=cs_sr_dp_4?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-15
+        - listitem:
+          - link "Lavender Grey":
+            - /url: /YATWIN-iPhone-15-Plus-Soft-Touch/dp/B0F7KL7SY5/ref=cs_sr_dp_5?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-15
+        - listitem:
+          - link "Light Cyan":
+            - /url: /YATWIN-iPhone-15-Plus-Soft-Touch/dp/B0F7KL8T5P/ref=cs_sr_dp_6?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-15
+      - link "+10 other colors/patterns":
+        - /url: /YATWIN-iPhone-15-Plus-Soft-Touch/dp/B0F7KN1S32/ref=cs_sr_dp_n?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-15
+        - text: "+10"
+  - listitem:
+    - link "VONZEE Electroplating Transparent Clear Logo Cover for iPhone 15 Plus Case 6.7 inch, Electroplated TPU Cover, Full Body & Individual Camera Protection for Each Lens Bumper Cases (Gold)":
+      - /url: /VONZEE-Electroplating-Transparent-Electroplated-Individual/dp/B0CJRSZDZ2/ref=sr_1_16?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-16
+      - heading "VONZEE Electroplating Transparent Clear Logo Cover for iPhone 15 Plus Case 6.7 inch, Electroplated TPU Cover, Full Body & Individual Camera Protection for Each Lens Bumper Cases (Gold)" [level=2]
+    - button "4.0 out of 5 stars, rating details"
+    - link "775 ratings":
+      - /url: /VONZEE-Electroplating-Transparent-Electroplated-Individual/dp/B0CJRSZDZ2/ref=sr_1_16?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-16#customerReviews
+    - text: 100+ bought in past month
+    - link "Limited time deal":
+      - /url: /deals
+    - text: Price, product page
+    - 'link "₹388 M.R.P: ₹899 M.R.P: ₹899"':
+      - /url: /VONZEE-Electroplating-Transparent-Electroplated-Individual/dp/B0CJRSZDZ2/ref=sr_1_16?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-16
+    - text: (57% off) Buy 2 items, get 5% off FREE delivery Wed, 30 Jul on first order
+    - button "Add to cart"
+    - group "colours available":
+      - list:
+        - listitem:
+          - link "Gold":
+            - /url: /VONZEE-Electroplating-Transparent-Electroplated-Individual/dp/B0CJRSZDZ2/ref=cs_sr_dp_1?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-16
+        - listitem:
+          - link "Black":
+            - /url: /VONZEE-Electroplating-Transparent-Electroplated-Individual/dp/B0CJRS65C7/ref=cs_sr_dp_2?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-16
+        - listitem:
+          - link "Blue":
+            - /url: /VONZEE-Electroplating-Transparent-Electroplated-Individual/dp/B0CJRRBFRD/ref=cs_sr_dp_3?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-16
+        - listitem:
+          - link "Cosmos Blue":
+            - /url: /VONZEE-Electroplating-Transparent-Electroplated-Individual/dp/B0CR6LJ4XY/ref=cs_sr_dp_4?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-16
+        - listitem:
+          - link "Deep Purple New":
+            - /url: /VONZEE-Electroplating-Transparent-Electroplated-Individual/dp/B0F622WCD5/ref=cs_sr_dp_5?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-16
+        - listitem:
+          - link "Green":
+            - /url: /VONZEE-Electroplating-Transparent-Electroplated-Individual/dp/B0CJRSL5CR/ref=cs_sr_dp_6?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-16
+      - link "+3 other colors/patterns":
+        - /url: /VONZEE-Electroplating-Transparent-Electroplated-Individual/dp/B0CJRSZDZ2/ref=cs_sr_dp_n?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-16
+        - text: "+3"
+  - listitem:
+    - group "Best seller in Mobile Phone Lens Protectors"
+    - link "Amazon Brand - Solimo Tempered Glass Camera Lens Protector for iPhone 15 (6.1 Inch) & iPhone 15 Plus (6.7 Inch) | Anti-Scratch | Black Tempered Glass":
+      - /url: /Amazon-Brand-Tempered-Protector-Anti-Scratch/dp/B0D876TYFQ/ref=sr_1_17?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-17
+      - heading "Amazon Brand - Solimo Tempered Glass Camera Lens Protector for iPhone 15 (6.1 Inch) & iPhone 15 Plus (6.7 Inch) | Anti-Scratch | Black Tempered Glass" [level=2]
+    - button "4.0 out of 5 stars, rating details"
+    - link "201 ratings":
+      - /url: /Amazon-Brand-Tempered-Protector-Anti-Scratch/dp/B0D876TYFQ/ref=sr_1_17?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-17#customerReviews
+    - text: 1K+ bought in past month
+    - link "Limited time deal":
+      - /url: /deals
+    - text: Price, product page
+    - 'link "₹149 M.R.P: ₹349 M.R.P: ₹349"':
+      - /url: /Amazon-Brand-Tempered-Protector-Anti-Scratch/dp/B0D876TYFQ/ref=sr_1_17?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-17
+    - text: (57% off) FREE delivery Wed, 30 Jul on first order
+    - button "Add to cart"
+  - listitem:
+    - link "ESR 3 Pack for iPhone 16 Plus/iPhone 15 Plus Tempered Glass, Screen Protector Guard Film with Easy Installation Tool, 9H Hardness Shatterproof, Full Coverage, HD Clear, Scratch Resistant":
+      - /url: /ESR-iPhone-Plus-Full-Coverage-Military-Grade/dp/B0CMTNBVMK/ref=sr_1_18?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-18
+      - heading "ESR 3 Pack for iPhone 16 Plus/iPhone 15 Plus Tempered Glass, Screen Protector Guard Film with Easy Installation Tool, 9H Hardness Shatterproof, Full Coverage, HD Clear, Scratch Resistant" [level=2]
+    - button "4.4 out of 5 stars, rating details"
+    - link "1,501 ratings":
+      - /url: /ESR-iPhone-Plus-Full-Coverage-Military-Grade/dp/B0CMTNBVMK/ref=sr_1_18?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-18#customerReviews
+    - text: 200+ bought in past month
+    - link "Limited time deal":
+      - /url: /deals
+    - text: Price, product page
+    - 'link "₹999 ( ₹333 /count) M.R.P: ₹1,599 M.R.P: ₹1,599"':
+      - /url: /ESR-iPhone-Plus-Full-Coverage-Military-Grade/dp/B0CMTNBVMK/ref=sr_1_18?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-18
+    - text: (38% off) Save ₹100 with coupon
+    - img "Amazon Prime"
+    - text: FREE delivery Wed, 30 Jul
+    - button "Add to cart"
+    - group "colours available":
+      - list
+      - link "+2 other colors/patterns":
+        - /url: /ESR-iPhone-Plus-Full-Coverage-Military-Grade/dp/B0CMTNBVMK/ref=cs_sr_dp?crid=16YD20ES9034X&dib=eyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY&dib_tag=se&keywords=iphone+15+plus&qid=1753085471&sprefix=iphone+15+plus%2Caps%2C1286&sr=8-18
+  - listitem:
+    - button "View Sponsored information or leave ad feedback": Sponsored
+    - link "Sponsored Ad - OnePlus 13s | Snapdragon® 8 Elite | Best Battery Life Ever on a Compact Phone | Lifetime Display Warranty | 12GB+256GB | Green Silk":
+      - /url: /sspa/click?ie=UTF8&spc=MTo1MTY2MTU3MDkwMzE4ODI1OjE3NTMwODU0NzE6c3BfYnRmOjMwMDU5MDQ4ODE2MzgzMjo6MDo6&url=%2FOnePlus-Snapdragon%25C2%25AE-Battery-Lifetime-Warranty%2Fdp%2FB0F5WTG8RG%2Fref%3Dsr_1_19_sspa%3Fcrid%3D16YD20ES9034X%26dib%3DeyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY%26dib_tag%3Dse%26keywords%3Diphone%2B15%2Bplus%26qid%3D1753085471%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D8-19-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&sp_cr=DUB
+      - heading "Sponsored Ad - OnePlus 13s | Snapdragon® 8 Elite | Best Battery Life Ever on a Compact Phone | Lifetime Display Warranty | 12GB+256GB | Green Silk" [level=2]: OnePlus 13s | Snapdragon® 8 Elite | Best Battery Life Ever on a Compact Phone | Lifetime Display Warranty | 12GB+256GB | Green Silk
+    - button "4.5 out of 5 stars, rating details"
+    - link "405 ratings":
+      - /url: /sspa/click?ie=UTF8&spc=MTo1MTY2MTU3MDkwMzE4ODI1OjE3NTMwODU0NzE6c3BfYnRmOjMwMDU5MDQ4ODE2MzgzMjo6MDo6&url=%2FOnePlus-Snapdragon%25C2%25AE-Battery-Lifetime-Warranty%2Fdp%2FB0F5WTG8RG%2Fref%3Dsr_1_19_sspa%3Fcrid%3D16YD20ES9034X%26dib%3DeyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY%26dib_tag%3Dse%26keywords%3Diphone%2B15%2Bplus%26qid%3D1753085471%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D8-19-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&sp_cr=DUB#customerReviews
+    - text: 3K+ bought in past month
+    - link "Limited time deal":
+      - /url: /deals
+    - text: Price, product page
+    - 'link "₹54,998 M.R.P: ₹57,999 M.R.P: ₹57,999"':
+      - /url: /sspa/click?ie=UTF8&spc=MTo1MTY2MTU3MDkwMzE4ODI1OjE3NTMwODU0NzE6c3BfYnRmOjMwMDU5MDQ4ODE2MzgzMjo6MDo6&url=%2FOnePlus-Snapdragon%25C2%25AE-Battery-Lifetime-Warranty%2Fdp%2FB0F5WTG8RG%2Fref%3Dsr_1_19_sspa%3Fcrid%3D16YD20ES9034X%26dib%3DeyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY%26dib_tag%3Dse%26keywords%3Diphone%2B15%2Bplus%26qid%3D1753085471%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D8-19-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&sp_cr=DUB
+    - text: (5% off) Save extra with No Cost EMI
+    - button "Add to cart"
+    - group "colours available":
+      - list
+      - link "+2 other colors/patterns":
+        - /url: /sspa/click?ie=UTF8&spc=MTo1MTY2MTU3MDkwMzE4ODI1OjE3NTMwODU0NzE6c3BfYnRmOjMwMDU5MDQ4ODE2MzgzMjo6MDo6&url=%2FOnePlus-Snapdragon%25C2%25AE-Battery-Lifetime-Warranty%2Fdp%2FB0F5WTG8RG%2Fref%3Dsr_1_19_sspa%3Fcrid%3D16YD20ES9034X%26dib%3DeyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY%26dib_tag%3Dse%26keywords%3Diphone%2B15%2Bplus%26qid%3D1753085471%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D8-19-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&sp_cr=DUB
+  - listitem:
+    - button "View Sponsored information or leave ad feedback": Sponsored
+    - link "Sponsored Ad - OnePlus Nord 5 | Snapdragon 8s Gen 3 | Stable 144FPS Gaming | Dual 50MP Flagship Camera | Powered by OnePlus AI | 8GB + 256GB | Dry Ice":
+      - /url: /sspa/click?ie=UTF8&spc=MTo1MTY2MTU3MDkwMzE4ODI1OjE3NTMwODU0NzE6c3BfYnRmOjMwMDYyNDE5Njc2NDQzMjo6MDo6&url=%2FOnePlus-Snapdragon-Stable-Flagship-Powered%2Fdp%2FB0FCMKSP7V%2Fref%3Dsr_1_20_sspa%3Fcrid%3D16YD20ES9034X%26dib%3DeyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY%26dib_tag%3Dse%26keywords%3Diphone%2B15%2Bplus%26qid%3D1753085471%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D8-20-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&sp_cr=DUB
+      - heading "Sponsored Ad - OnePlus Nord 5 | Snapdragon 8s Gen 3 | Stable 144FPS Gaming | Dual 50MP Flagship Camera | Powered by OnePlus AI | 8GB + 256GB | Dry Ice" [level=2]: OnePlus Nord 5 | Snapdragon 8s Gen 3 | Stable 144FPS Gaming | Dual 50MP Flagship Camera | Powered by OnePlus AI | 8GB + 256GB | Dry Ice
+    - button "4.3 out of 5 stars, rating details"
+    - link "94 ratings":
+      - /url: /sspa/click?ie=UTF8&spc=MTo1MTY2MTU3MDkwMzE4ODI1OjE3NTMwODU0NzE6c3BfYnRmOjMwMDYyNDE5Njc2NDQzMjo6MDo6&url=%2FOnePlus-Snapdragon-Stable-Flagship-Powered%2Fdp%2FB0FCMKSP7V%2Fref%3Dsr_1_20_sspa%3Fcrid%3D16YD20ES9034X%26dib%3DeyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY%26dib_tag%3Dse%26keywords%3Diphone%2B15%2Bplus%26qid%3D1753085471%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D8-20-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&sp_cr=DUB#customerReviews
+    - link "Limited time deal":
+      - /url: /deals
+    - text: Price, product page
+    - 'link "₹31,999 M.R.P: ₹34,999 M.R.P: ₹34,999"':
+      - /url: /sspa/click?ie=UTF8&spc=MTo1MTY2MTU3MDkwMzE4ODI1OjE3NTMwODU0NzE6c3BfYnRmOjMwMDYyNDE5Njc2NDQzMjo6MDo6&url=%2FOnePlus-Snapdragon-Stable-Flagship-Powered%2Fdp%2FB0FCMKSP7V%2Fref%3Dsr_1_20_sspa%3Fcrid%3D16YD20ES9034X%26dib%3DeyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY%26dib_tag%3Dse%26keywords%3Diphone%2B15%2Bplus%26qid%3D1753085471%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D8-20-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&sp_cr=DUB
+    - text: (9% off)
+    - button "Add to cart"
+    - group "colours available":
+      - list
+      - link "+2 other colors/patterns":
+        - /url: /sspa/click?ie=UTF8&spc=MTo1MTY2MTU3MDkwMzE4ODI1OjE3NTMwODU0NzE6c3BfYnRmOjMwMDYyNDE5Njc2NDQzMjo6MDo6&url=%2FOnePlus-Snapdragon-Stable-Flagship-Powered%2Fdp%2FB0FCMKSP7V%2Fref%3Dsr_1_20_sspa%3Fcrid%3D16YD20ES9034X%26dib%3DeyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY%26dib_tag%3Dse%26keywords%3Diphone%2B15%2Bplus%26qid%3D1753085471%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D8-20-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&sp_cr=DUB
+  - listitem:
+    - button "View Sponsored information or leave ad feedback": Sponsored
+    - link "Sponsored Ad - OnePlus 13R | Smarter with OnePlus AI | Lifetime Display Warranty (12GB RAM, 256GB Storage Nebula Noir)":
+      - /url: /sspa/click?ie=UTF8&spc=MTo1MTY2MTU3MDkwMzE4ODI1OjE3NTMwODU0NzE6c3BfYnRmOjMwMDQ2MTM3MzkxNDIzMjo6MDo6&url=%2FOnePlus-13R-Smarter-Lifetime-Warranty%2Fdp%2FB0DPS62DYH%2Fref%3Dsr_1_21_sspa%3Fcrid%3D16YD20ES9034X%26dib%3DeyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY%26dib_tag%3Dse%26keywords%3Diphone%2B15%2Bplus%26qid%3D1753085471%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D8-21-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&sp_cr=DUB
+      - heading "Sponsored Ad - OnePlus 13R | Smarter with OnePlus AI | Lifetime Display Warranty (12GB RAM, 256GB Storage Nebula Noir)" [level=2]: OnePlus 13R | Smarter with OnePlus AI | Lifetime Display Warranty (12GB RAM, 256GB Storage Nebula Noir)
+    - button "4.3 out of 5 stars, rating details"
+    - link "1,988 ratings":
+      - /url: /sspa/click?ie=UTF8&spc=MTo1MTY2MTU3MDkwMzE4ODI1OjE3NTMwODU0NzE6c3BfYnRmOjMwMDQ2MTM3MzkxNDIzMjo6MDo6&url=%2FOnePlus-13R-Smarter-Lifetime-Warranty%2Fdp%2FB0DPS62DYH%2Fref%3Dsr_1_21_sspa%3Fcrid%3D16YD20ES9034X%26dib%3DeyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY%26dib_tag%3Dse%26keywords%3Diphone%2B15%2Bplus%26qid%3D1753085471%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D8-21-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&sp_cr=DUB#customerReviews
+    - text: 4K+ bought in past month
+    - link "Limited time deal":
+      - /url: /deals
+    - text: Price, product page
+    - 'link "₹42,997 M.R.P: ₹44,999 M.R.P: ₹44,999"':
+      - /url: /sspa/click?ie=UTF8&spc=MTo1MTY2MTU3MDkwMzE4ODI1OjE3NTMwODU0NzE6c3BfYnRmOjMwMDQ2MTM3MzkxNDIzMjo6MDo6&url=%2FOnePlus-13R-Smarter-Lifetime-Warranty%2Fdp%2FB0DPS62DYH%2Fref%3Dsr_1_21_sspa%3Fcrid%3D16YD20ES9034X%26dib%3DeyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY%26dib_tag%3Dse%26keywords%3Diphone%2B15%2Bplus%26qid%3D1753085471%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D8-21-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&sp_cr=DUB
+    - text: (4% off) Save extra with No Cost EMI
+    - button "Add to cart"
+    - group "colours available":
+      - list
+      - link "+1 other color/pattern":
+        - /url: /sspa/click?ie=UTF8&spc=MTo1MTY2MTU3MDkwMzE4ODI1OjE3NTMwODU0NzE6c3BfYnRmOjMwMDQ2MTM3MzkxNDIzMjo6MDo6&url=%2FOnePlus-13R-Smarter-Lifetime-Warranty%2Fdp%2FB0DPS62DYH%2Fref%3Dsr_1_21_sspa%3Fcrid%3D16YD20ES9034X%26dib%3DeyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY%26dib_tag%3Dse%26keywords%3Diphone%2B15%2Bplus%26qid%3D1753085471%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D8-21-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&sp_cr=DUB
+  - listitem:
+    - button "View Sponsored information or leave ad feedback": Sponsored
+    - link "Sponsored Ad - OnePlus Nord CE5 | Massive 7100mAh Battery | MediaTek Dimensity 8350 Apex | Powered by OnePlus AI | 8GB + 128GB | Nexus Blue":
+      - /url: /sspa/click?ie=UTF8&spc=MTo1MTY2MTU3MDkwMzE4ODI1OjE3NTMwODU0NzE6c3BfYnRmOjMwMDYyMTg2Mzc2NjgzMjo6MDo6&url=%2FOnePlus-Massive-7100mAh-MediaTek-Dimensity%2Fdp%2FB0FC6XHHSV%2Fref%3Dsr_1_22_sspa%3Fcrid%3D16YD20ES9034X%26dib%3DeyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY%26dib_tag%3Dse%26keywords%3Diphone%2B15%2Bplus%26qid%3D1753085471%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D8-22-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&sp_cr=DUB
+      - heading "Sponsored Ad - OnePlus Nord CE5 | Massive 7100mAh Battery | MediaTek Dimensity 8350 Apex | Powered by OnePlus AI | 8GB + 128GB | Nexus Blue" [level=2]: OnePlus Nord CE5 | Massive 7100mAh Battery | MediaTek Dimensity 8350 Apex | Powered by OnePlus AI | 8GB + 128GB | Nexus Blue
+    - button "4.0 out of 5 stars, rating details"
+    - link "3 ratings":
+      - /url: /sspa/click?ie=UTF8&spc=MTo1MTY2MTU3MDkwMzE4ODI1OjE3NTMwODU0NzE6c3BfYnRmOjMwMDYyMTg2Mzc2NjgzMjo6MDo6&url=%2FOnePlus-Massive-7100mAh-MediaTek-Dimensity%2Fdp%2FB0FC6XHHSV%2Fref%3Dsr_1_22_sspa%3Fcrid%3D16YD20ES9034X%26dib%3DeyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY%26dib_tag%3Dse%26keywords%3Diphone%2B15%2Bplus%26qid%3D1753085471%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D8-22-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&sp_cr=DUB#customerReviews
+    - link "Limited time deal":
+      - /url: /deals
+    - text: Price, product page
+    - link "₹24,998":
+      - /url: /sspa/click?ie=UTF8&spc=MTo1MTY2MTU3MDkwMzE4ODI1OjE3NTMwODU0NzE6c3BfYnRmOjMwMDYyMTg2Mzc2NjgzMjo6MDo6&url=%2FOnePlus-Massive-7100mAh-MediaTek-Dimensity%2Fdp%2FB0FC6XHHSV%2Fref%3Dsr_1_22_sspa%3Fcrid%3D16YD20ES9034X%26dib%3DeyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY%26dib_tag%3Dse%26keywords%3Diphone%2B15%2Bplus%26qid%3D1753085471%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D8-22-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&sp_cr=DUB
+    - button "Add to cart"
+    - group "colours available":
+      - list
+      - link "+2 other colors/patterns":
+        - /url: /sspa/click?ie=UTF8&spc=MTo1MTY2MTU3MDkwMzE4ODI1OjE3NTMwODU0NzE6c3BfYnRmOjMwMDYyMTg2Mzc2NjgzMjo6MDo6&url=%2FOnePlus-Massive-7100mAh-MediaTek-Dimensity%2Fdp%2FB0FC6XHHSV%2Fref%3Dsr_1_22_sspa%3Fcrid%3D16YD20ES9034X%26dib%3DeyJ2IjoiMSJ9.aNCWoRg1GvJUxG2C1oNS6raiAIxJbpdF5WnX3nc-Gf-FUOcQAM5jy98ZdMSXqzUuY023qP7tlff8tL3E0DMoD4YfJc787n_kNTbqSsnxILQdZ4yyq1s4yo_xO38vwCB8z5x5ol2ufSXyXR2pqdzdaXzZgVj9AYv-43gadwA4A3SumRNCLT9WNoHKkYFvcwsNjRKudeQD5DcsA8J4YPJxqVFBuk9Z5SIOL6q6XjtcFEE.i7oIrykHAPrGdCZU5TZW1OOmX0A3-kJ_ytIdYzOzsqY%26dib_tag%3Dse%26keywords%3Diphone%2B15%2Bplus%26qid%3D1753085471%26sprefix%3Diphone%2B15%2Bplus%252Caps%252C1286%26sr%3D8-22-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1&sp_cr=DUB
+- link "Sponsored video; click to navigate to featured product page. Blikiz 3-Meter, Edge Protector, Baby Proofing Edge Protector Strip for Baby, Child Proof Table Edge Protectors Guards Safety Bumper Cover for Furniture Desk Crib Gate Bed Wall Soft Silicone (3 Meter)":
+  - /url: https://aax-eu.amazon.in/x/c/JJdFzFM8S99MwW01IoRLUkAAAAGYLAlr9gMAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDEgICChuAyn/clv1_CEuOPUxokZA0iHrVXr8d5h_CUFQgCqgfvqs69Dyn69hM4X97qzrQF_018HHz9hvVjq0yzpNb3X7OfU0ZAmcAAxBTEhyDBu6oS1MnbH1MSluMAL1FlEfB8IkGXCQAUuW6XJfef1D8rsFSE0M9llvwdksJOldODd93Q196UuYlQRaY37qDjF4oXlv5OpjsdqwyCjQHbdXAhZRSWWhBJNwAffQdjs-hn4wsEjvWNPQG9gUahJtJn6j8Z0wG3nKH1EB2AHnpPv3v4jxS3xU_Le0rSSiNJVyJjAz9B7yl_bPrUYAZJ0SW56eH2BSUewLtMruf-c1G8cx3X_T4j7DoCsOKAPp3--1YeAMLlI8C-9FHE6Fj0W5fDGy7yyiJprY4UBiZYzx-q2qMj0UNuzT-N52bUz1lAp3XhtVXPtM6C2xN4Sp2M752rihBP2dM-J0mRnMYGeGRQNXmq8-sXy4dCTTLqaFKWEG2vEWUYQR5WaRd-NWXKXNt_6mgwAGvbmtDCdaXvtFS_CF8CoIymgGwjQSZ6zz9CBRvUEkOcgmDU2TPNZf2bSaWBD9t80ENAnfyX2DZEaVnuuFlcRCdkrZwltwGIyffMSBcrRFM49kMurj5gHo1hoWBxbIZR1XV_iKvQryIC01leO4bfDxM1ehjGKlZiQkm_JTLAUhZUVQBnfl2ib4pFxcFUCansEM_oBTiebxp_SN68XRX1vk4-LESHk3qNW414JLhE_zH4YPDFUgxQSbsuUrDbPdr8BJm-NIGG4Cpvf5vKwPIpG7x7xLCM3TuASh2rzfNL3VYn-NgSMUsZBWi21ogFNBtg2Bls6eKUmO6cPi6TFcXwAHKpNZ2dNBMpsGMm0g2uu2FSrqkkt6CnXCPgmfH1m4R4wjVjGSt5gPKo9o_p_UEiyrFGsYpTbgcMNyExPqX0A9UbRgtBynXqQzetSxSH0g-U2BKWiTG22Cung2mf4H69LWIlOzD4DOrfKhPbMODWeXu61eBchNeKfUfYRROdRFGeYXSywfBPX8sCAbZ0IB9wCsaWeAa57O-6TZN3ylqKrS-j0x7_a15thllD1yyaN3wBRzFN6ZVf45iemKrWrTKDT8oKKyyWLOborbYWSmFmIZ_VeoTMF1RErydJnSvKOJ0rV1cB4OvlPfNl94Tav3mhz8oIfpApHQdXG4LAPH0ICLULdAPvaLGrLav2xmr0EzN3YY_iiZAXpQIPiWoCX3j22nYQyYJo2PeLfKJ6fMEgbF4xWfw48d-LmHlEE8FV3-F22qliyMVNbXKQ6AqsdCUZHP2Z6JqYZcKkDN4zpZRtd-z_jSit0mzJsvcbuFZecGCz9MOjDKpwZoJPIphcHa4zUnn2-AaaEgj0ovKsuwO2npQV5B3AuBNuaU_iGSlKWzttemRC0HLWLxAEQfbdHWWXRj9ZDYgDoedVb2NqiKEKG9R67YJzaftulR9MVdIwpYAHbdzJRX_LwmB8j4oAUXAgoDesw7-KDfxaHHT9DyZfcY-4L4sz-E562d7kFruGFikAWVuzos0i9iji3riewlrbfEzFJXXL_gkCTPYr_ydDlyLFHypH5QisPe_1JOdwYbWUblxAvQHsPVkeP2kBkLOxqynX_TkeWUERi1M8sD9zIAa27PNwGL93ey9TgnYHinzmSlov1d3HpW0TXXFF07037Y2dWO-txxKwIZXRBvaVE4tL_NulvI7SP2CF80AhKnyTHsSxc2-mvSdpuh-U6u_6RBYljGoiptLFRjUwAddtze4l5dBEjfKw2qptfvqnM9UXalv40r8PccRhbIMxiSSooZCKvBQUqAc-G4GTcfO4QL3Ute3Ezfa9520OMKPt5pr5MNQePe5jqR1riAlV8xjKLAwgdT-Y1fmMY20groOTOiGasd7UiM31TxujtDmBbfvnHk_JY2D5oIEvfyNeCtjqsCEzg9Cd1XtG_iFlx9U7O85d5_UvIsVrXsOEwtg4K7nV4cc4CKZNjBx-qG6ciMjTPvu5YW5R5uNG0D21ONGcTaIc610QvBHiEJxrLKO5bXbx04ETJs_gwb_4XDCyuFqFXaWfain4jqtqLK7jfYoIZvgG6l2IsY4BvpWz5JQaUUHevFxgDMvHpaP5G0LKVp6FsXiPGmJZHD3O3gxD5641M6dIKVRjkAZE__7WJ5pTDDdMKYrxIEnvF3nDnN5qA0ZH3otchq-YiTZ3xTOPK3-7jwvkkveMbBsa_EeNZ3j066nzYYnUg4xSQc5iY60B4n_iM2fifAJvcwPpp1bpHxPz10cjzQVXomYXAMv/https://www.amazon.in/dp/B0D31RPGQ7?pd_rd_i=B0D31RPGQ7&pf_rd_p=fa654091-9aaa-43a3-ac17-a2ad95526fd2&pf_rd_r=RGYGFZ3JG97DVPHHYW6X&pd_rd_wg=6U8x1&pd_rd_w=If1eF&pd_rd_r=4e97f1fc-44ce-4840-b9f6-021deee9323c
+- text: Sponsored
+- link "Blikiz 3-Meter, Edge Protector, Baby Proofing Edge Protector Strip for Baby, Child Proof Table Edge Protectors Guards Safety Bumper Cover for Furniture Desk Crib Gate Bed Wall Soft Silicone (3 Meter)":
+  - /url: https://aax-eu.amazon.in/x/c/JJdFzFM8S99MwW01IoRLUkAAAAGYLAlr9gMAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDEgICChuAyn/clv1_CEuOPUxokZA0iHrVXr8d5h_CUFQgCqgfvqs69Dyn69hM4X97qzrQF_018HHz9hvVjq0yzpNb3X7OfU0ZAmcAAxBTEhyDBu6oS1MnbH1MSluMAL1FlEfB8IkGXCQAUuW6XJfef1D8rsFSE0M9llvwdksJOldODd93Q196UuYlQRaY37qDjF4oXlv5OpjsdqwyCjQHbdXAhZRSWWhBJNwAffQdjs-hn4wsEjvWNPQG9gUahJtJn6j8Z0wG3nKH1EB2AHnpPv3v4jxS3xU_Le0rSSiNJVyJjAz9B7yl_bPrUYAZJ0SW56eH2BSUewLtMruf-c1G8cx3X_T4j7DoCsOKAPp3--1YeAMLlI8C-9FHE6Fj0W5fDGy7yyiJprY4UBiZYzx-q2qMj0UNuzT-N52bUz1lAp3XhtVXPtM6C2xN4Sp2M752rihBP2dM-J0mRnMYGeGRQNXmq8-sXy4dCTTLqaFKWEG2vEWUYQR5WaRd-NWXKXNt_6mgwAGvbmtDCdaXvtFS_CF8CoIymgGwjQSZ6zz9CBRvUEkOcgmDU2TPNZf2bSaWBD9t80ENAnfyX2DZEaVnuuFlcRCdkrZwltwGIyffMSBcrRFM49kMurj5gHo1hoWBxbIZR1XV_iKvQryIC01leO4bfDxM1ehjGKlZiQkm_JTLAUhZUVQBnfl2ib4pFxcFUCansEM_oBTiebxp_SN68XRX1vk4-LESHk3qNW414JLhE_zH4YPDFUgxQSbsuUrDbPdr8BJm-NIGG4Cpvf5vKwPIpG7x7xLCM3TuASh2rzfNL3VYn-NgSMUsZBWi21ogFNBtg2Bls6eKUmO6cPi6TFcXwAHKpNZ2dNBMpsGMm0g2uu2FSrqkkt6CnXCPgmfH1m4R4wjVjGSt5gPKo9o_p_UEiyrFGsYpTbgcMNyExPqX0A9UbRgtBynXqQzetSxSH0g-U2BKWiTG22Cung2mf4H69LWIlOzD4DOrfKhPbMODWeXu61eBchNeKfUfYRROdRFGeYXSywfBPX8sCAbZ0IB9wCsaWeAa57O-6TZN3ylqKrS-j0x7_a15thllD1yyaN3wBRzFN6ZVf45iemKrWrTKDT8oKKyyWLOborbYWSmFmIZ_VeoTMF1RErydJnSvKOJ0rV1cB4OvlPfNl94Tav3mhz8oIfpApHQdXG4LAPH0ICLULdAPvaLGrLav2xmr0EzN3YY_iiZAXpQIPiWoCX3j22nYQyYJo2PeLfKJ6fMEgbF4xWfw48d-LmHlEE8FV3-F22qliyMVNbXKQ6AqsdCUZHP2Z6JqYZcKkDN4zpZRtd-z_jSit0mzJsvcbuFZecGCz9MOjDKpwZoJPIphcHa4zUnn2-AaaEgj0ovKsuwO2npQV5B3AuBNuaU_iGSlKWzttemRC0HLWLxAEQfbdHWWXRj9ZDYgDoedVb2NqiKEKG9R67YJzaftulR9MVdIwpYAHbdzJRX_LwmB8j4oAUXAgoDesw7-KDfxaHHT9DyZfcY-4L4sz-E562d7kFruGFikAWVuzos0i9iji3riewlrbfEzFJXXL_gkCTPYr_ydDlyLFHypH5QisPe_1JOdwYbWUblxAvQHsPVkeP2kBkLOxqynX_TkeWUERi1M8sD9zIAa27PNwGL93ey9TgnYHinzmSlov1d3HpW0TXXFF07037Y2dWO-txxKwIZXRBvaVE4tL_NulvI7SP2CF80AhKnyTHsSxc2-mvSdpuh-U6u_6RBYljGoiptLFRjUwAddtze4l5dBEjfKw2qptfvqnM9UXalv40r8PccRhbIMxiSSooZCKvBQUqAc-G4GTcfO4QL3Ute3Ezfa9520OMKPt5pr5MNQePe5jqR1riAlV8xjKLAwgdT-Y1fmMY20groOTOiGasd7UiM31TxujtDmBbfvnHk_JY2D5oIEvfyNeCtjqsCEzg9Cd1XtG_iFlx9U7O85d5_UvIsVrXsOEwtg4K7nV4cc4CKZNjBx-qG6ciMjTPvu5YW5R5uNG0D21ONGcTaIc610QvBHiEJxrLKO5bXbx04ETJs_gwb_4XDCyuFqFXaWfain4jqtqLK7jfYoIZvgG6l2IsY4BvpWz5JQaUUHevFxgDMvHpaP5G0LKVp6FsXiPGmJZHD3O3gxD5641M6dIKVRjkAZE__7WJ5pTDDdMKYrxIEnvF3nDnN5qA0ZH3otchq-YiTZ3xTOPK3-7jwvkkveMbBsa_EeNZ3j066nzYYnUg4xSQc5iY60B4n_iM2fifAJvcwPpp1bpHxPz10cjzQVXomYXAMv/https://www.amazon.in/Blikiz-Protector-Protectors-Furniture-Meter/dp/B0D31RPGQ7/ref=sxbs_sbv_search_btf?content-id=amzn1.sym.fa654091-9aaa-43a3-ac17-a2ad95526fd2%3Aamzn1.sym.fa654091-9aaa-43a3-ac17-a2ad95526fd2&crid=16YD20ES9034X&cv_ct_cx=iphone+15+plus&keywords=iphone+15+plus&pd_rd_i=B0D31RPGQ7&pd_rd_r=4e97f1fc-44ce-4840-b9f6-021deee9323c&pd_rd_w=If1eF&pd_rd_wg=6U8x1&pf_rd_p=fa654091-9aaa-43a3-ac17-a2ad95526fd2&pf_rd_r=RGYGFZ3JG97DVPHHYW6X&qid=1753085471&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=iphone+15+plus%2Caps%2C1286&sr=1-1-f1821008-9dea-4812-b2b6-4a6e4a4f2d55
+  - heading "Blikiz 3-Meter, Edge Protector, Baby Proofing Edge Protector Strip for Baby, Child Proof Table Edge Protectors Guards Safety Bumper Cover for Furniture Desk Crib Gate Bed Wall Soft Silicone (3 Meter)" [level=2]
+- button "3.3 out of 5 stars, rating details"
+- link "371 ratings":
+  - /url: https://aax-eu.amazon.in/x/c/JJdFzFM8S99MwW01IoRLUkAAAAGYLAlr9gMAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDEgICChuAyn/clv1_CEuOPUxokZA0iHrVXr8d5h_CUFQgCqgfvqs69Dyn69hM4X97qzrQF_018HHz9hvVjq0yzpNb3X7OfU0ZAmcAAxBTEhyDBu6oS1MnbH1MSluMAL1FlEfB8IkGXCQAUuW6XJfef1D8rsFSE0M9llvwdksJOldODd93Q196UuYlQRaY37qDjF4oXlv5OpjsdqwyCjQHbdXAhZRSWWhBJNwAffQdjs-hn4wsEjvWNPQG9gUahJtJn6j8Z0wG3nKH1EB2AHnpPv3v4jxS3xU_Le0rSSiNJVyJjAz9B7yl_bPrUYAZJ0SW56eH2BSUewLtMruf-c1G8cx3X_T4j7DoCsOKAPp3--1YeAMLlI8C-9FHE6Fj0W5fDGy7yyiJprY4UBiZYzx-q2qMj0UNuzT-N52bUz1lAp3XhtVXPtM6C2xN4Sp2M752rihBP2dM-J0mRnMYGeGRQNXmq8-sXy4dCTTLqaFKWEG2vEWUYQR5WaRd-NWXKXNt_6mgwAGvbmtDCdaXvtFS_CF8CoIymgGwjQSZ6zz9CBRvUEkOcgmDU2TPNZf2bSaWBD9t80ENAnfyX2DZEaVnuuFlcRCdkrZwltwGIyffMSBcrRFM49kMurj5gHo1hoWBxbIZR1XV_iKvQryIC01leO4bfDxM1ehjGKlZiQkm_JTLAUhZUVQBnfl2ib4pFxcFUCansEM_oBTiebxp_SN68XRX1vk4-LESHk3qNW414JLhE_zH4YPDFUgxQSbsuUrDbPdr8BJm-NIGG4Cpvf5vKwPIpG7x7xLCM3TuASh2rzfNL3VYn-NgSMUsZBWi21ogFNBtg2Bls6eKUmO6cPi6TFcXwAHKpNZ2dNBMpsGMm0g2uu2FSrqkkt6CnXCPgmfH1m4R4wjVjGSt5gPKo9o_p_UEiyrFGsYpTbgcMNyExPqX0A9UbRgtBynXqQzetSxSH0g-U2BKWiTG22Cung2mf4H69LWIlOzD4DOrfKhPbMODWeXu61eBchNeKfUfYRROdRFGeYXSywfBPX8sCAbZ0IB9wCsaWeAa57O-6TZN3ylqKrS-j0x7_a15thllD1yyaN3wBRzFN6ZVf45iemKrWrTKDT8oKKyyWLOborbYWSmFmIZ_VeoTMF1RErydJnSvKOJ0rV1cB4OvlPfNl94Tav3mhz8oIfpApHQdXG4LAPH0ICLULdAPvaLGrLav2xmr0EzN3YY_iiZAXpQIPiWoCX3j22nYQyYJo2PeLfKJ6fMEgbF4xWfw48d-LmHlEE8FV3-F22qliyMVNbXKQ6AqsdCUZHP2Z6JqYZcKkDN4zpZRtd-z_jSit0mzJsvcbuFZecGCz9MOjDKpwZoJPIphcHa4zUnn2-AaaEgj0ovKsuwO2npQV5B3AuBNuaU_iGSlKWzttemRC0HLWLxAEQfbdHWWXRj9ZDYgDoedVb2NqiKEKG9R67YJzaftulR9MVdIwpYAHbdzJRX_LwmB8j4oAUXAgoDesw7-KDfxaHHT9DyZfcY-4L4sz-E562d7kFruGFikAWVuzos0i9iji3riewlrbfEzFJXXL_gkCTPYr_ydDlyLFHypH5QisPe_1JOdwYbWUblxAvQHsPVkeP2kBkLOxqynX_TkeWUERi1M8sD9zIAa27PNwGL93ey9TgnYHinzmSlov1d3HpW0TXXFF07037Y2dWO-txxKwIZXRBvaVE4tL_NulvI7SP2CF80AhKnyTHsSxc2-mvSdpuh-U6u_6RBYljGoiptLFRjUwAddtze4l5dBEjfKw2qptfvqnM9UXalv40r8PccRhbIMxiSSooZCKvBQUqAc-G4GTcfO4QL3Ute3Ezfa9520OMKPt5pr5MNQePe5jqR1riAlV8xjKLAwgdT-Y1fmMY20groOTOiGasd7UiM31TxujtDmBbfvnHk_JY2D5oIEvfyNeCtjqsCEzg9Cd1XtG_iFlx9U7O85d5_UvIsVrXsOEwtg4K7nV4cc4CKZNjBx-qG6ciMjTPvu5YW5R5uNG0D21ONGcTaIc610QvBHiEJxrLKO5bXbx04ETJs_gwb_4XDCyuFqFXaWfain4jqtqLK7jfYoIZvgG6l2IsY4BvpWz5JQaUUHevFxgDMvHpaP5G0LKVp6FsXiPGmJZHD3O3gxD5641M6dIKVRjkAZE__7WJ5pTDDdMKYrxIEnvF3nDnN5qA0ZH3otchq-YiTZ3xTOPK3-7jwvkkveMbBsa_EeNZ3j066nzYYnUg4xSQc5iY60B4n_iM2fifAJvcwPpp1bpHxPz10cjzQVXomYXAMv/https://www.amazon.in/Blikiz-Protector-Protectors-Furniture-Meter/dp/B0D31RPGQ7/ref=sxbs_sbv_search_btf?content-id=amzn1.sym.fa654091-9aaa-43a3-ac17-a2ad95526fd2%3Aamzn1.sym.fa654091-9aaa-43a3-ac17-a2ad95526fd2&crid=16YD20ES9034X&cv_ct_cx=iphone+15+plus&keywords=iphone+15+plus&pd_rd_i=B0D31RPGQ7&pd_rd_r=4e97f1fc-44ce-4840-b9f6-021deee9323c&pd_rd_w=If1eF&pd_rd_wg=6U8x1&pf_rd_p=fa654091-9aaa-43a3-ac17-a2ad95526fd2&pf_rd_r=RGYGFZ3JG97DVPHHYW6X&qid=1753085471&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=iphone+15+plus%2Caps%2C1286&sr=1-1-f1821008-9dea-4812-b2b6-4a6e4a4f2d55#customerReviews
+- text: 300+ bought in past month Price, product page
+- 'link "₹299 M.R.P: ₹999 M.R.P: ₹999"':
+  - /url: https://aax-eu.amazon.in/x/c/JJdFzFM8S99MwW01IoRLUkAAAAGYLAlr9gMAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDEgICChuAyn/clv1_CEuOPUxokZA0iHrVXr8d5h_CUFQgCqgfvqs69Dyn69hM4X97qzrQF_018HHz9hvVjq0yzpNb3X7OfU0ZAmcAAxBTEhyDBu6oS1MnbH1MSluMAL1FlEfB8IkGXCQAUuW6XJfef1D8rsFSE0M9llvwdksJOldODd93Q196UuYlQRaY37qDjF4oXlv5OpjsdqwyCjQHbdXAhZRSWWhBJNwAffQdjs-hn4wsEjvWNPQG9gUahJtJn6j8Z0wG3nKH1EB2AHnpPv3v4jxS3xU_Le0rSSiNJVyJjAz9B7yl_bPrUYAZJ0SW56eH2BSUewLtMruf-c1G8cx3X_T4j7DoCsOKAPp3--1YeAMLlI8C-9FHE6Fj0W5fDGy7yyiJprY4UBiZYzx-q2qMj0UNuzT-N52bUz1lAp3XhtVXPtM6C2xN4Sp2M752rihBP2dM-J0mRnMYGeGRQNXmq8-sXy4dCTTLqaFKWEG2vEWUYQR5WaRd-NWXKXNt_6mgwAGvbmtDCdaXvtFS_CF8CoIymgGwjQSZ6zz9CBRvUEkOcgmDU2TPNZf2bSaWBD9t80ENAnfyX2DZEaVnuuFlcRCdkrZwltwGIyffMSBcrRFM49kMurj5gHo1hoWBxbIZR1XV_iKvQryIC01leO4bfDxM1ehjGKlZiQkm_JTLAUhZUVQBnfl2ib4pFxcFUCansEM_oBTiebxp_SN68XRX1vk4-LESHk3qNW414JLhE_zH4YPDFUgxQSbsuUrDbPdr8BJm-NIGG4Cpvf5vKwPIpG7x7xLCM3TuASh2rzfNL3VYn-NgSMUsZBWi21ogFNBtg2Bls6eKUmO6cPi6TFcXwAHKpNZ2dNBMpsGMm0g2uu2FSrqkkt6CnXCPgmfH1m4R4wjVjGSt5gPKo9o_p_UEiyrFGsYpTbgcMNyExPqX0A9UbRgtBynXqQzetSxSH0g-U2BKWiTG22Cung2mf4H69LWIlOzD4DOrfKhPbMODWeXu61eBchNeKfUfYRROdRFGeYXSywfBPX8sCAbZ0IB9wCsaWeAa57O-6TZN3ylqKrS-j0x7_a15thllD1yyaN3wBRzFN6ZVf45iemKrWrTKDT8oKKyyWLOborbYWSmFmIZ_VeoTMF1RErydJnSvKOJ0rV1cB4OvlPfNl94Tav3mhz8oIfpApHQdXG4LAPH0ICLULdAPvaLGrLav2xmr0EzN3YY_iiZAXpQIPiWoCX3j22nYQyYJo2PeLfKJ6fMEgbF4xWfw48d-LmHlEE8FV3-F22qliyMVNbXKQ6AqsdCUZHP2Z6JqYZcKkDN4zpZRtd-z_jSit0mzJsvcbuFZecGCz9MOjDKpwZoJPIphcHa4zUnn2-AaaEgj0ovKsuwO2npQV5B3AuBNuaU_iGSlKWzttemRC0HLWLxAEQfbdHWWXRj9ZDYgDoedVb2NqiKEKG9R67YJzaftulR9MVdIwpYAHbdzJRX_LwmB8j4oAUXAgoDesw7-KDfxaHHT9DyZfcY-4L4sz-E562d7kFruGFikAWVuzos0i9iji3riewlrbfEzFJXXL_gkCTPYr_ydDlyLFHypH5QisPe_1JOdwYbWUblxAvQHsPVkeP2kBkLOxqynX_TkeWUERi1M8sD9zIAa27PNwGL93ey9TgnYHinzmSlov1d3HpW0TXXFF07037Y2dWO-txxKwIZXRBvaVE4tL_NulvI7SP2CF80AhKnyTHsSxc2-mvSdpuh-U6u_6RBYljGoiptLFRjUwAddtze4l5dBEjfKw2qptfvqnM9UXalv40r8PccRhbIMxiSSooZCKvBQUqAc-G4GTcfO4QL3Ute3Ezfa9520OMKPt5pr5MNQePe5jqR1riAlV8xjKLAwgdT-Y1fmMY20groOTOiGasd7UiM31TxujtDmBbfvnHk_JY2D5oIEvfyNeCtjqsCEzg9Cd1XtG_iFlx9U7O85d5_UvIsVrXsOEwtg4K7nV4cc4CKZNjBx-qG6ciMjTPvu5YW5R5uNG0D21ONGcTaIc610QvBHiEJxrLKO5bXbx04ETJs_gwb_4XDCyuFqFXaWfain4jqtqLK7jfYoIZvgG6l2IsY4BvpWz5JQaUUHevFxgDMvHpaP5G0LKVp6FsXiPGmJZHD3O3gxD5641M6dIKVRjkAZE__7WJ5pTDDdMKYrxIEnvF3nDnN5qA0ZH3otchq-YiTZ3xTOPK3-7jwvkkveMbBsa_EeNZ3j066nzYYnUg4xSQc5iY60B4n_iM2fifAJvcwPpp1bpHxPz10cjzQVXomYXAMv/https://www.amazon.in/Blikiz-Protector-Protectors-Furniture-Meter/dp/B0D31RPGQ7/ref=sxbs_sbv_search_btf?content-id=amzn1.sym.fa654091-9aaa-43a3-ac17-a2ad95526fd2%3Aamzn1.sym.fa654091-9aaa-43a3-ac17-a2ad95526fd2&crid=16YD20ES9034X&cv_ct_cx=iphone+15+plus&keywords=iphone+15+plus&pd_rd_i=B0D31RPGQ7&pd_rd_r=4e97f1fc-44ce-4840-b9f6-021deee9323c&pd_rd_w=If1eF&pd_rd_wg=6U8x1&pf_rd_p=fa654091-9aaa-43a3-ac17-a2ad95526fd2&pf_rd_r=RGYGFZ3JG97DVPHHYW6X&qid=1753085471&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=iphone+15+plus%2Caps%2C1286&sr=1-1-f1821008-9dea-4812-b2b6-4a6e4a4f2d55
+- text: (70% off)
+- img "Amazon Prime"
+- text: FREE delivery Fri, 1 Aug
+- heading "Related searches" [level=2]
+- list:
+  - listitem:
+    - link "iphone 15":
+      - /url: /s?k=iphone+15&ref=rsl_sug_0_0&pd_rd_w=G7jmi&content-id=amzn1.sym.b5876297-ded6-4475-876b-d315610bb575:amzn1.sym.b5876297-ded6-4475-876b-d315610bb575&pf_rd_p=b5876297-ded6-4475-876b-d315610bb575&pf_rd_r=RGYGFZ3JG97DVPHHYW6X&pd_rd_wg=6U8x1&pd_rd_r=4e97f1fc-44ce-4840-b9f6-021deee9323c&qid=1753085471
+  - listitem:
+    - link "iphone 15 pro max":
+      - /url: /s?k=iphone+15+pro+max&ref=rsl_sug_0_3&pd_rd_w=G7jmi&content-id=amzn1.sym.b5876297-ded6-4475-876b-d315610bb575:amzn1.sym.b5876297-ded6-4475-876b-d315610bb575&pf_rd_p=b5876297-ded6-4475-876b-d315610bb575&pf_rd_r=RGYGFZ3JG97DVPHHYW6X&pd_rd_wg=6U8x1&pd_rd_r=4e97f1fc-44ce-4840-b9f6-021deee9323c&qid=1753085471
+  - listitem:
+    - link "iphone 14 plus":
+      - /url: /s?k=iphone+14+plus&ref=rsl_sug_0_1&pd_rd_w=G7jmi&content-id=amzn1.sym.b5876297-ded6-4475-876b-d315610bb575:amzn1.sym.b5876297-ded6-4475-876b-d315610bb575&pf_rd_p=b5876297-ded6-4475-876b-d315610bb575&pf_rd_r=RGYGFZ3JG97DVPHHYW6X&pd_rd_wg=6U8x1&pd_rd_r=4e97f1fc-44ce-4840-b9f6-021deee9323c&qid=1753085471
+  - listitem:
+    - link "iphone 14 pro":
+      - /url: /s?k=iphone+14+pro&ref=rsl_sug_0_4&pd_rd_w=G7jmi&content-id=amzn1.sym.b5876297-ded6-4475-876b-d315610bb575:amzn1.sym.b5876297-ded6-4475-876b-d315610bb575&pf_rd_p=b5876297-ded6-4475-876b-d315610bb575&pf_rd_r=RGYGFZ3JG97DVPHHYW6X&pd_rd_wg=6U8x1&pd_rd_r=4e97f1fc-44ce-4840-b9f6-021deee9323c&qid=1753085471
+  - listitem:
+    - link "iphone 15 pro":
+      - /url: /s?k=iphone+15+pro&ref=rsl_sug_0_2&pd_rd_w=G7jmi&content-id=amzn1.sym.b5876297-ded6-4475-876b-d315610bb575:amzn1.sym.b5876297-ded6-4475-876b-d315610bb575&pf_rd_p=b5876297-ded6-4475-876b-d315610bb575&pf_rd_r=RGYGFZ3JG97DVPHHYW6X&pd_rd_wg=6U8x1&pd_rd_r=4e97f1fc-44ce-4840-b9f6-021deee9323c&qid=1753085471
+  - listitem:
+    - link "iphone 14":
+      - /url: /s?k=iphone+14&ref=rsl_sug_0_5&pd_rd_w=G7jmi&content-id=amzn1.sym.b5876297-ded6-4475-876b-d315610bb575:amzn1.sym.b5876297-ded6-4475-876b-d315610bb575&pf_rd_p=b5876297-ded6-4475-876b-d315610bb575&pf_rd_r=RGYGFZ3JG97DVPHHYW6X&pd_rd_wg=6U8x1&pd_rd_r=4e97f1fc-44ce-4840-b9f6-021deee9323c&qid=1753085471
+- navigation:
+  - region "pagination":
+    - list:
+      - button "Previous" [disabled]
+      - listitem:
+        - button "Page 1": "1"
+      - listitem:
+        - button "Go to page 2": "2"
+      - listitem:
+        - button "Go to page 3": "3"
+      - button [disabled]
+      - button "20" [disabled]
+      - listitem:
+        - button "Go to next page, page 2": Next
+- heading "Need help?" [level=2]
+- link "Visit the help section":
+  - /url: /gp/help/customer/display.html?nodeId=201889520
+- text: or
+- link "contact us":
+  - /url: /gp/help/customer/contact-us
+- link "Go back to filtering menu":
+  - /url: "#s-skipLinkTargetForFilterOptions"
+- link "Skip to main search results":
+  - /url: "#s-skipLinkTargetForMainSearchResults"
+- group "Storage Capacity":
+  - heading "Storage Capacity" [level=2]
+  - list "Storage Capacity":
+    - listitem:
+      - link "Apply the filter 128 GB to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_twenty-nine_browse-bin%3A81332994031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=44349045031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_twenty-nine_browse-bin_1&ds=v1%3AbSMjKu5gSSudUaYKOT7O9e7PJuy4KCyIe5zHxYVMEtU
+        - text: 128 GB
+    - listitem:
+      - link "Apply the filter 256 GB to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_twenty-nine_browse-bin%3A81332996031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=44349045031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_twenty-nine_browse-bin_2&ds=v1%3Au9FPLEJVbgds8J2PQslScYVu6QLWUD5fKNNl%2BAbM4uk
+        - text: 256 GB
+    - listitem:
+      - link "Apply the filter 512 GB & above to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_twenty-nine_browse-bin%3A92070749031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=44349045031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_twenty-nine_browse-bin_3&ds=v1%3Avhn3eSqITQjkbaHHB9kYBdQw22nz%2F4wAOOEDZmVDYQo
+        - text: 512 GB & above
+- group "Category":
+  - heading "Category" [level=2]
+  - list "Category":
+    - listitem:
+      - link "Smartphones & Basic Mobiles":
+        - /url: /s?k=iphone+15+plus&rh=n%3A1389432031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=3576079031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_n_1&ds=v1%3Aqxhb8Xsgce2J9x5ge1ezKr7AsuCXCsz9xE1GmgB1u4c
+    - listitem:
+      - link "Smartphones":
+        - /url: /s?k=iphone+15+plus&rh=n%3A1389432031%2Cn%3A1805560031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=3576079031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_n_2&ds=v1%3AMZ5nM3z%2Blo%2BDplpzEZk27trilr80HvHEjbvKWuFKdLQ
+- group "Brands":
+  - heading "Brands" [level=2]
+  - list "Brands":
+    - listitem:
+      - link "Apply the filter Apple to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_123%3A110955&dc&crid=16YD20ES9034X&qid=1753085471&rnid=91049095031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_123_1&ds=v1%3A0rVQt2ExTAOCXGQJsIrCVLoVdgsjQDT8PYHkp2vWe2M
+        - text: Apple
+    - listitem:
+      - link "Apply the filter DIZORO to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_123%3A3554899&dc&crid=16YD20ES9034X&qid=1753085471&rnid=91049095031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_123_2&ds=v1%3A1o72dYPeFJB3VoilOVhoG%2BGlrqiuvUgLk9NleX811aE
+        - text: DIZORO
+    - listitem:
+      - link "Apply the filter OnePlus to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_123%3A253649&dc&crid=16YD20ES9034X&qid=1753085471&rnid=91049095031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_123_3&ds=v1%3A0O8j847HNYDJvoOoCofXcex0fW0BixreUDd8IDdEiS0
+        - text: OnePlus
+    - listitem:
+      - link "Apply the filter Samsung to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_123%3A46655&dc&crid=16YD20ES9034X&qid=1753085471&rnid=91049095031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_123_4&ds=v1%3AuG3UPdyAZ3GS89hTYK%2FRhZIE155FovX08bRDLl8GSv8
+        - text: Samsung
+    - listitem:
+      - link "Apply the filter Enflamo to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_123%3A152178&dc&crid=16YD20ES9034X&qid=1753085471&rnid=91049095031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_123_5&ds=v1%3AVWyHucrLfSu13apt8OJZRpjsOipgOTrgw5ZZjsxuYHY
+        - text: Enflamo
+    - listitem:
+      - link "Apply the filter VONZEE to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_123%3A582420&dc&crid=16YD20ES9034X&qid=1753085471&rnid=91049095031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_123_6&ds=v1%3ADwEGuJzPn43MFSpS8cDmZiUdyHZgqXngQ2bqIm0Xpgc
+        - text: VONZEE
+    - listitem:
+      - link "Apply the filter Spigen to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_123%3A2385&dc&crid=16YD20ES9034X&qid=1753085471&rnid=91049095031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_123_7&ds=v1%3Ai2SPQqDKo9Z6gGqTMH4xC6A%2BQNkkHsvR8Q3QGKgT%2B9c
+        - text: Spigen
+    - listitem:
+      - button "See more, Brands": See more
+- group:
+  - text: Price ₹58 ₹83,500+
+  - slider "Minimum price": "0"
+  - slider "Maximum price": "189"
+  - button "Go - Submit price range"
+  - heading "Deals & Discounts" [level=2]
+  - list "Deals & Discounts":
+    - listitem:
+      - link "All Discounts":
+        - /url: /s?k=iphone+15+plus&rh=p_n_deal_type%3A26921226031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=26921223031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_deal_type_1&ds=v1%3Awkw7%2BednAc3PMojQL9JmqqCmzQrNzZ%2FE0Vjziym4C7o
+    - listitem:
+      - link "Today's Deals":
+        - /url: /s?k=iphone+15+plus&rh=p_n_deal_type%3A26921224031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=26921223031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_deal_type_2&ds=v1%3ASaMu54s1nWFY%2B32gPxNr%2BALa%2FE3PXjceiPE5EXOGxnM
+- group "Customer Review":
+  - heading "Customer Review" [level=2]
+  - list "Customer Review":
+    - listitem:
+      - link "Apply the filter 4 Stars & Up to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=p_72%3A1318476031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=1318475031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_72_1&ds=v1%3AUaxcWswco4UvSyYJwGA2jkcsN8LLt6%2F0I%2FQ1Kn7DEsY
+        - text: 4 Stars & Up
+- group "Discount":
+  - heading "Discount" [level=2]
+  - list "Discount":
+    - listitem:
+      - link "10% Off or more":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_pct-off-with-tax%3A2665399031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=2665398031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_pct-off-with-tax_1&ds=v1%3A%2FGxZQgPmgadMuH3Eyg7cpBv2Z5tfx4xwS8lzNM9zFt0
+    - listitem:
+      - link "25% Off or more":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_pct-off-with-tax%3A2665400031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=2665398031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_pct-off-with-tax_2&ds=v1%3A0EkwBSPmJ2qAdDb6Tx1MbsF2VjtNvaTAZqK945eAfOA
+    - listitem:
+      - link "35% Off or more":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_pct-off-with-tax%3A2665402031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=2665398031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_pct-off-with-tax_3&ds=v1%3Aw849tsXCr3WjKY9mh6r64m2aTY0BHzNl%2Fbf0Hott0nE
+    - listitem:
+      - link "50% Off or more":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_pct-off-with-tax%3A2665401031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=2665398031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_pct-off-with-tax_4&ds=v1%3A9EHQrLGRs1I8N8y00gMzX%2FocPmbs7z%2B2yGaiwvXiSEU
+    - listitem:
+      - link "60% Off or more":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_pct-off-with-tax%3A27060456031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=2665398031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_pct-off-with-tax_5&ds=v1%3A3ITXMcAjnJB36REaM3mQsNFVJcK4ionbnOAk%2BDo6IWQ
+    - listitem:
+      - link "70% Off or more":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_pct-off-with-tax%3A27060457031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=2665398031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_pct-off-with-tax_6&ds=v1%3AXPL6Hbem7wE8yh9U9qADUFiHA6RWCOQfE4l5tjVtIjo
+- group "Colour":
+  - heading "Colour" [level=2]
+  - list "Colour":
+    - listitem:
+      - link "Apply the filter White to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_size_two_browse-vebin%3A15563997031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=15563994031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_size_two_browse-vebin_1&ds=v1%3AcUrkDxzA5qX2or5S%2BxfHKvaU%2Fb%2FOlV8HAWnw%2B%2BYrbJo
+    - listitem:
+      - link "Apply the filter Black to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_size_two_browse-vebin%3A15563995031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=15563994031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_size_two_browse-vebin_2&ds=v1%3AWcn3MpLa3xAmtDLF%2BHXD3ivhB2GEaTq8XGkI6EyMU4c
+    - listitem:
+      - link "Apply the filter Green to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_size_two_browse-vebin%3A15564005031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=15563994031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_size_two_browse-vebin_3&ds=v1%3A0V0%2BveNNMi55k%2FVsJLH5TSIddoJxb6zIoUR9GwAxk6g
+    - listitem:
+      - link "Apply the filter Red to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_size_two_browse-vebin%3A15564000031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=15563994031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_size_two_browse-vebin_4&ds=v1%3A15A%2BMiGeMhRT9xtmVB22XdadpaX6ESbtil8PccrBvgM
+    - listitem:
+      - link "Apply the filter Pink to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_size_two_browse-vebin%3A15564001031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=15563994031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_size_two_browse-vebin_5&ds=v1%3A3bCOjGHB23id%2Bbd0k3Ru9mhTS7odF4ukBaXbs%2F7MRSE
+    - listitem:
+      - link "Apply the filter Blue to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_size_two_browse-vebin%3A15564007031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=15563994031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_size_two_browse-vebin_6&ds=v1%3AtGCj7ItYoZ%2FtN5TsLbBS8QlI9Kjfzt5mmegPdI%2Fp5%2Fk
+    - listitem:
+      - link "Apply the filter Silver to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_size_two_browse-vebin%3A15564010031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=15563994031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_size_two_browse-vebin_7&ds=v1%3AM2uFXQp6ZrYMVp1Qn7RT7vAvkHiTrTyQ8T9iLUROcUo
+- group "Item Condition":
+  - heading "Item Condition" [level=2]
+  - list "Item Condition":
+    - listitem:
+      - link "New":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_condition-type%3A8609960031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=8609959031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_condition-type_1&ds=v1%3ASahPbszfKHSqdWjgrRS9apEsS9yoEjE%2FBPC7660ALwY
+- group "Cellular Technology":
+  - heading "Cellular Technology" [level=2]
+  - list "Cellular Technology":
+    - listitem:
+      - link "Apply the filter 5G to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_twenty-five_browse-bin%3A33962382031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=33962288031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_twenty-five_browse-bin_1&ds=v1%3A4H9q6l4kFWeZtxbseeMNXNs%2BkLnaRpqk2qT8ylMdqGE
+        - text: 5G
+- group "Display Size":
+  - heading "Display Size" [level=2]
+  - list "Display Size":
+    - listitem:
+      - link "Apply the filter 5.5 in & above to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_six_browse-bin%3A6631756031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=6631751031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_six_browse-bin_1&ds=v1%3AyxSu0SYvTGfC56DYlUgPPYSf9HP%2Fjcn5rGhV20FZpus
+        - text: 5.5 in & above
+- group "Battery Capacity":
+  - heading "Battery Capacity" [level=2]
+  - list "Battery Capacity":
+    - listitem:
+      - link "Apply the filter Up to 2,999 mAh to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_thirty-five_browse-bin%3A91805328031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=91805324031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_thirty-five_browse-bin_1&ds=v1%3AQVfZ4AlTGc8r6gZGE%2FGvCqTwJoTTSGLyLEotDnrlCBI
+        - text: Up to 2,999 mAh
+    - listitem:
+      - link "Apply the filter 4,000 to 4,999 mAh to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_thirty-five_browse-bin%3A91805325031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=91805324031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_thirty-five_browse-bin_2&ds=v1%3Aca7g8JY32Pxx5epSLJ1fs%2B2L2apoTrYUEO0MxO6LyX0
+        - text: 4,000 to 4,999 mAh
+    - listitem:
+      - link "Apply the filter 5,000 to 5,999 mAh to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_thirty-five_browse-bin%3A91805326031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=91805324031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_thirty-five_browse-bin_3&ds=v1%3Avco6%2FnNapbtyCZ3CkmuSYPvNEwNNO3xfI7TafsChHHw
+        - text: 5,000 to 5,999 mAh
+- group "Pay On Delivery":
+  - heading "Pay On Delivery" [level=2]
+  - list "Pay On Delivery":
+    - listitem:
+      - link "Apply the filter Eligible for Pay On Delivery to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=p_n_is_cod_eligible%3A4931671031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=4931670031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_is_cod_eligible_1&ds=v1%3AEjSr%2By2AOheNcClfIxzUufuzvGXZqfPx%2BBfm%2FdULb6c
+        - text: Eligible for Pay On Delivery
+- group "Operating System Version":
+  - heading "Operating System Version" [level=2]
+  - list "Operating System Version":
+    - listitem:
+      - link "Apply the filter Android 14 to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_thirty-one_browse-bin%3A206818075031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=51258619031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_thirty-one_browse-bin_1&ds=v1%3AzfPOMTMdDh6g2nr1%2BAnquhaKmGnRK9UqBf61%2F3de8Bs
+        - text: Android 14
+- group "RAM Size":
+  - heading "RAM Size" [level=2]
+  - list "RAM Size":
+    - listitem:
+      - link "Apply the filter 6 to 7.9 GB to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_thirty_browse-bin%3A44897287031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=44897277031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_thirty_browse-bin_1&ds=v1%3AhIUeQ8TWbsV65yZOLB%2BdB%2BA0sGYRdgMI18m9Hnps1ec
+        - text: 6 to 7.9 GB
+    - listitem:
+      - link "Apply the filter 8 to 9.9 GB to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_thirty_browse-bin%3A44897288031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=44897277031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_thirty_browse-bin_2&ds=v1%3ArdC1hGsqQtmKXHuqRqKUzcavdkzYWKD737oEbYCrupQ
+        - text: 8 to 9.9 GB
+    - listitem:
+      - link "Apply the filter 10 GB & Above to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_thirty_browse-bin%3A44897292031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=44897277031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_thirty_browse-bin_3&ds=v1%3AtQb45rF5HhbVlOcslqHbtw%2Bc5OSzE1QgtBGGdgTv%2F%2Bk
+        - text: 10 GB & Above
+- group "Features":
+  - heading "Features" [level=2]
+  - list "Features":
+    - listitem:
+      - link "Apply the filter Dual SIM to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_three_browse-bin%3A1897963031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=1484941031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_three_browse-bin_1&ds=v1%3AVKNHxmWq1oHSVYdKbeTJTt1T9Z6%2FV8VIh8EHDK5l3Z8
+        - text: Dual SIM
+    - listitem:
+      - link "Apply the filter Primary Camera to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_three_browse-bin%3A1484942031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=1484941031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_three_browse-bin_2&ds=v1%3AxBsVBjHhtw72HtRoo0p7i90cYFuQIpT7snf47iydMWE
+        - text: Primary Camera
+    - listitem:
+      - link "Apply the filter USB to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_three_browse-bin%3A1484950031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=1484941031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_three_browse-bin_3&ds=v1%3AnABIx2%2BmHth0Ekpac%2FGO%2F8v5x5acADy6449ToGB2StQ
+        - text: USB
+- group "Mobile Phone Primary Camera Resolution":
+  - heading "Mobile Phone Primary Camera Resolution" [level=2]
+  - list "Mobile Phone Primary Camera Resolution":
+    - listitem:
+      - link "Apply the filter 12 - 15.9 MP to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_fourteen_browse-bin%3A21329554031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=21345983031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_fourteen_browse-bin_1&ds=v1%3Aq5MrF3Fx6hlCsS0tKef7pR3XUBbwGmuaisDGUAMHCwI
+        - text: 12 - 15.9 MP
+    - listitem:
+      - link "Apply the filter 32 MP & Above to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_fourteen_browse-bin%3A21329559031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=21345983031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_fourteen_browse-bin_2&ds=v1%3Amh%2FvjgPBLJijrq6jxtoGzNSNo%2FOaLEahCMf1KkF3kuk
+        - text: 32 MP & Above
+- group "Availability":
+  - heading "Availability" [level=2]
+  - list "Availability":
+    - listitem:
+      - link "Apply the filter Include Out of Stock to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=p_n_availability%3A1318485031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=1318483031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_availability_2&ds=v1%3AW7vH5aXTYuIfE7uyi%2F5S83k9ob4ulAFduZ27XkxJKtA
+        - text: Include Out of Stock
+- group "Camera Modes":
+  - heading "Camera Modes" [level=2]
+  - list "Camera Modes":
+    - listitem:
+      - link "Apply the filter Portrait to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_sixteen_browse-bin%3A27316773031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=27316761031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_sixteen_browse-bin_1&ds=v1%3A37W0bM4rThnRZt3bqYMNLMAEK5Bh01C%2FwwIzxJN9yrM
+        - text: Portrait
+- group "Processor Speed":
+  - heading "Processor Speed" [level=2]
+  - list "Processor Speed":
+    - listitem:
+      - link "Apply the filter 2 - 2.4 GHz to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_nine_browse-bin%3A8561126031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=8561123031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_nine_browse-bin_1&ds=v1%3A%2BFZ4%2Bxz%2BCCrI5cEtA9xcRiDCrgKB0khHUYnJQcUlD00
+        - text: 2 - 2.4 GHz
+    - listitem:
+      - link "Apply the filter 2.5 GHz & Above to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_nine_browse-bin%3A8561127031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=8561123031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_nine_browse-bin_2&ds=v1%3AGbmJ66dK30xoAczc7Fx5O6XbxYXepzRUt7mtjCSFRpY
+        - text: 2.5 GHz & Above
+- group "Connector Type":
+  - heading "Connector Type" [level=2]
+  - list "Connector Type":
+    - listitem:
+      - link "Apply the filter USB Type C to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_twenty-two_browse-bin%3A27403491031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=27403487031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_twenty-two_browse-bin_1&ds=v1%3AxAa0iDD%2FJ%2BiVB24Y5dlRcgB9T1OzSiOYz13WFVypm7M
+        - text: USB Type C
+- group "Battery Type":
+  - heading "Battery Type" [level=2]
+  - list "Battery Type":
+    - listitem:
+      - link "Apply the filter Lithium-Ion to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_thirty-eight_browse-bin%3A100427319031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=100427310031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_thirty-eight_browse-bin_1&ds=v1%3Ax7loWQ2EnEOUbqgQf1nNhot%2F%2BD6bnQFVFlONt4oU5Pc
+        - text: Lithium-Ion
+- group "SIM Card Slot Count":
+  - heading "SIM Card Slot Count" [level=2]
+  - list "SIM Card Slot Count":
+    - listitem:
+      - link "Apply the filter Dual SIM to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_fifteen_browse-bin%3A27179459031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=27179439031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_fifteen_browse-bin_1&ds=v1%3APx1EFQIUvkpWnwWyVE3T%2BXsBvmqu%2FzhWIq%2FZ41d2Ex0
+        - text: Dual SIM
+- group "Security Feature":
+  - heading "Security Feature" [level=2]
+  - list "Security Feature":
+    - listitem:
+      - link "Apply the filter Fingerprint Recognition to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_eighteen_browse-bin%3A27355812031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=27355796031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_eighteen_browse-bin_1&ds=v1%3AMy0swm51lLtKmOizTJFKWM6mL9PXUGR4mfCxuB8Nbvk
+        - text: Fingerprint Recognition
+    - listitem:
+      - link "Apply the filter Face Recognition to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_eighteen_browse-bin%3A27355807031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=27355796031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_eighteen_browse-bin_2&ds=v1%3AXm%2FT5b8V4D07qk%2BjcO8oZFwbRDNzDLn4xvd1M4sElk4
+        - text: Face Recognition
+- group "Weight":
+  - heading "Weight" [level=2]
+  - list "Weight":
+    - listitem:
+      - link "Apply the filter 142 to 197.9 g to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_twenty-seven_browse-bin%3A42659588031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=42659587031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_twenty-seven_browse-bin_1&ds=v1%3ALuAEOnqtWHN8zLZmruTV4ORMgcRgoH4Niah56dBxTfM
+        - text: 142 to 197.9 g
+    - listitem:
+      - link "Apply the filter 198 to 254.9 g to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_twenty-seven_browse-bin%3A42659589031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=42659587031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_twenty-seven_browse-bin_2&ds=v1%3AkaMzEOgTSglm4rWGzDEyYg%2F7lyke%2B582iRPT8hw3JEA
+        - text: 198 to 254.9 g
+- group "Seller":
+  - heading "Seller" [level=2]
+  - list "Seller":
+    - listitem:
+      - link "Apply the filter Cocoblu Retail to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_6%3AA1WYWER0W24N8S&dc&crid=16YD20ES9034X&qid=1753085471&rnid=1318474031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_6_1&ds=v1%3AmV4%2BEUGE%2BfKxgE2G%2BQ6ShDB%2Bf72oqdysDEuWqNbhhrA
+        - text: Cocoblu Retail
+    - listitem:
+      - link "Apply the filter NEXUSMART IN to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_6%3AA65WEC11GOVV9&dc&crid=16YD20ES9034X&qid=1753085471&rnid=1318474031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_6_2&ds=v1%3ATvQ9MQa9xefjpjKhquVzf9YlcZjGTILaKV4E%2BQjd%2BtI
+        - text: NEXUSMART IN
+    - listitem:
+      - button "See more, Seller": See more
+- group "Local Market":
+  - heading "Local Market" [level=2]
+  - list "Local Market":
+    - listitem:
+      - link "Apply the filter Amazon Fresh to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=p_n_alm_brand_id%3A17107035031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=17107034031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_alm_brand_id_1&ds=v1%3A69Zv57sGcG6DobR00PoWRYqLg414xwRYFxDYTn8vbTg
+        - text: Amazon Fresh
+- group "Aspect Ratio":
+  - heading "Aspect Ratio" [level=2]
+  - list "Aspect Ratio":
+    - listitem:
+      - link "Apply the filter 16:9 to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_browse-bin%3A204879948031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=204879945031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_browse-bin_1&ds=v1%3A8LAmgk5qNEPngq9AZg2i6m563mYrnsLMYMypud%2BqQo4
+        - text: 16:9
+- group "GPS Navigation":
+  - heading "GPS Navigation" [level=2]
+  - list "GPS Navigation":
+    - listitem:
+      - link "Apply the filter True to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_thirty-six_browse-bin%3A96329643031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=96329629031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_thirty-six_browse-bin_1&ds=v1%3AYSfWntQcPslZlUEYUE%2BUVKrFus16FiJ1CJnPt792UDU
+        - text: "True"
+- group "Connectivity":
+  - heading "Connectivity" [level=2]
+  - list "Connectivity":
+    - listitem:
+      - link "Apply the filter Bluetooth to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_twenty_browse-bin%3A27363277031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=27363274031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_twenty_browse-bin_1&ds=v1%3AwdcMHoqa%2BPcvxl7ZrgaZyTm4VHpwXwQfU035bxyilBs
+        - text: Bluetooth
+    - listitem:
+      - link "Apply the filter NFC to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_twenty_browse-bin%3A27363279031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=27363274031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_twenty_browse-bin_2&ds=v1%3A3wtIxQng9kGj939al7yWZvOnBokpIdnN1SRjPiA4mzI
+        - text: NFC
+    - listitem:
+      - link "Apply the filter USB to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_twenty_browse-bin%3A27363276031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=27363274031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_twenty_browse-bin_3&ds=v1%3ApTMzilf7iljwRBEeamP5lhPRbx7H7tlcFp%2BYZUG4iUE
+        - text: USB
+    - listitem:
+      - link "Apply the filter Wi-Fi to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_twenty_browse-bin%3A27363278031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=27363274031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_twenty_browse-bin_4&ds=v1%3AzVrBWUa%2FgOpf7WEhjKITBBoVCr%2FRBXK2x0%2FeMooNUVs
+        - text: Wi-Fi
+- group "Flash":
+  - heading "Flash" [level=2]
+  - list "Flash":
+    - listitem:
+      - link "Apply the filter LED to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_thirty-nine_browse-bin%3A100427321031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=100427311031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_thirty-nine_browse-bin_1&ds=v1%3AnmIoW%2B1E%2BWP3BLYhV%2B0%2B%2BDt8kdfqAZCuTlCyo0Nl7DE
+        - text: LED
+- group "Input":
+  - heading "Input" [level=2]
+  - list "Input":
+    - listitem:
+      - link "Apply the filter Touchscreen to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_nineteen_browse-bin%3A27362061031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=27362059031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_nineteen_browse-bin_1&ds=v1%3A1J3kCLSUxknYZTeJonYp7hfdlCCVVCy9RupUvcbNvsM
+        - text: Touchscreen
+- group "SIM Card Size":
+  - heading "SIM Card Size" [level=2]
+  - list "SIM Card Size":
+    - listitem:
+      - link "Apply the filter Nano to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_twelve_browse-bin%3A27179455031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=27179438031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_twelve_browse-bin_1&ds=v1%3AS1mK36%2BL8gv7DXSVUVhB1cjSxjc8N5M0FHEEruK7KNs
+        - text: Nano
+- group "Supported Satellite Navigation System":
+  - heading "Supported Satellite Navigation System" [level=2]
+  - list "Supported Satellite Navigation System":
+    - listitem:
+      - link "Apply the filter BeiDou to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_thirty-seven_browse-bin%3A100424900031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=100424895031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_thirty-seven_browse-bin_1&ds=v1%3Ak%2BXv8%2B1jBuAnOXbDi%2BG0L5sjxj8TW61sd7wpLQjabvE
+        - text: BeiDou
+    - listitem:
+      - link "Apply the filter GLONASS to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_thirty-seven_browse-bin%3A100424903031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=100424895031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_thirty-seven_browse-bin_2&ds=v1%3AS3fovWE3M4ptFyjsLo06mY1jlvWxh1G28Insx6V2X7s
+        - text: GLONASS
+    - listitem:
+      - link "Apply the filter GPS to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_thirty-seven_browse-bin%3A100424905031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=100424895031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_thirty-seven_browse-bin_3&ds=v1%3AyVgl1MVP81sD4%2Fzlf15ki%2BHaGG%2BVQ5%2F7vq5tFrWYR8o
+        - text: GPS
+    - listitem:
+      - link "Apply the filter Galileo to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_thirty-seven_browse-bin%3A100424904031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=100424895031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_thirty-seven_browse-bin_4&ds=v1%3A0giI2SRboahMP3z%2BL8C9UsbXIOyObEffrcSzF%2BtynAw
+        - text: Galileo
+- group "Inclusions":
+  - heading "Inclusions" [level=2]
+  - list "Inclusions":
+    - listitem:
+      - link "Apply the filter SIM Tray Ejector to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_thirty-three_browse-bin%3A66008617031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=66008593031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_thirty-three_browse-bin_1&ds=v1%3A%2FyxXQNtJBbiYue24pD%2Bh6rqX%2F7MwA5qpnWZp3mDPhOQ
+        - text: SIM Tray Ejector
+    - listitem:
+      - link "Apply the filter Phone Case to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_thirty-three_browse-bin%3A66008623031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=66008593031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_thirty-three_browse-bin_2&ds=v1%3AhO4Lcbp29HVihEUHUeaGESFcEyr2hz9oaqOJUynGMu4
+        - text: Phone Case
+    - listitem:
+      - link "Apply the filter Power Adapter to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_thirty-three_browse-bin%3A66008624031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=66008593031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_thirty-three_browse-bin_3&ds=v1%3A9Xe3gSiu5M8H6%2F1f3b7Ph2i9FK8EnHiGA292osR%2BfmM
+        - text: Power Adapter
+    - listitem:
+      - link "Apply the filter USB Cable to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_thirty-three_browse-bin%3A66008618031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=66008593031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_thirty-three_browse-bin_4&ds=v1%3ATflQewj3woEP6wTu2SI9iFtpwrq9BhTwh4SW8ciJs7c
+        - text: USB Cable
+    - listitem:
+      - link "Apply the filter Screen Protector to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_thirty-three_browse-bin%3A66008622031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=66008593031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_thirty-three_browse-bin_5&ds=v1%3Au2fC9wlYSebVP9SpU%2FmzyYDatm9lyJfpR6zMSWMzI6k
+        - text: Screen Protector
+- group "New Arrivals":
+  - heading "New Arrivals" [level=2]
+  - list "New Arrivals":
+    - listitem:
+      - link "Last 30 days":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_date_first_available_absolute%3A1318487031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=1318486031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_date_first_available_absolute_1&ds=v1%3Asa8zz5gBYUTc0pGlmHpXYGJw5mMshvmkOm3%2FcjLkNZ8
+    - listitem:
+      - link "Last 90 days":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_date_first_available_absolute%3A1318488031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=1318486031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_date_first_available_absolute_2&ds=v1%3AyF1%2FXGutmxcqn%2Bjp6LThxK9vHkqEE2YstLxaju%2BmWHw
+- group "Rear Camera Photo Sensor Resolution":
+  - heading "Rear Camera Photo Sensor Resolution" [level=2]
+  - list "Rear Camera Photo Sensor Resolution":
+    - listitem:
+      - link "Apply the filter Up to 9.9 MP to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_five_browse-bin%3A42253779031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=42253749031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_five_browse-bin_1&ds=v1%3ApTt4%2BBidR4jaFNcFdXJG1y%2BLMLpgngltahZztyaRr4k
+        - text: Up to 9.9 MP
+    - listitem:
+      - link "Apply the filter 10 to 12.9 MP to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_five_browse-bin%3A42253777031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=42253749031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_five_browse-bin_2&ds=v1%3AaDbbO%2BLY4SuZUMUl2siJhDLcinKfiUxvuA%2FmnlP%2BKxQ
+        - text: 10 to 12.9 MP
+    - listitem:
+      - link "Apply the filter 16 MP & Above to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_five_browse-bin%3A42253778031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=42253749031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_five_browse-bin_3&ds=v1%3ATezyzSbHQDVPVfAg9l%2BoqA6qQdCM8zh2qBhaZf7WwSA
+        - text: 16 MP & Above
+- group "Wireless Network Technology":
+  - heading "Wireless Network Technology" [level=2]
+  - list "Wireless Network Technology":
+    - listitem:
+      - link "Apply the filter GSM to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_forty-three_browse-bin%3A100436155031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=100436133031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_forty-three_browse-bin_1&ds=v1%3AWJKDhPSBygWA%2Bh%2BB9DqM6OHvifCg3aKoHaBKoJIlMxI
+        - text: GSM
+    - listitem:
+      - link "Apply the filter LTE to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_forty-three_browse-bin%3A100436153031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=100436133031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_forty-three_browse-bin_2&ds=v1%3A8rTzy%2Bc4b2E9UDzjE2DgBRHPDbS%2B7kjRHQThNyfpP2A
+        - text: LTE
+    - listitem:
+      - link "Apply the filter Wi-Fi to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_forty-three_browse-bin%3A100436151031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=100436133031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_forty-three_browse-bin_3&ds=v1%3Ak0f1nP3nYusLYicdmsIDq8GV8iy9dcvuKq%2BHM1KMISw
+        - text: Wi-Fi
+    - listitem:
+      - link "Apply the filter CDMA to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_forty-three_browse-bin%3A100436160031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=100436133031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_forty-three_browse-bin_4&ds=v1%3AW7%2BstfCcSFUQGbZUrZIURpUUIOT2IowfHPoIZ7lT%2FXo
+        - text: CDMA
+- group "Display Refresh Rate":
+  - heading "Display Refresh Rate" [level=2]
+  - list "Display Refresh Rate":
+    - listitem:
+      - link "Apply the filter 89 to 104 Hz to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_twenty-eight_browse-bin%3A56163444031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=56162597031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_twenty-eight_browse-bin_1&ds=v1%3AVqjwiwwMUOLi0INL2PMXrsdg%2FOhIt22T5hUoR9oIEtQ
+        - text: 89 to 104 Hz
+    - listitem:
+      - link "Apply the filter 105 to 120 Hz to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_twenty-eight_browse-bin%3A56163447031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=56162597031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_twenty-eight_browse-bin_2&ds=v1%3ATrg3B007zJ%2FNfRmHZrKcyBlJe%2ByqS7yCnj8bJYCmBYA
+        - text: 105 to 120 Hz
+- group "Display Type":
+  - heading "Display Type" [level=2]
+  - list "Display Type":
+    - listitem:
+      - link "Apply the filter AMOLED to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_thirty-four_browse-bin%3A66009619031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=66009617031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_thirty-four_browse-bin_1&ds=v1%3A%2FtnbDMwLfT7063rRcZwh%2BbYQsjVU5jN6SXBKIVkoitg
+        - text: AMOLED
+    - listitem:
+      - link "Apply the filter LCD to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_thirty-four_browse-bin%3A66009618031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=66009617031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_thirty-four_browse-bin_2&ds=v1%3AvevaV7ygCUigG0ihAVfwQmWmFW%2Bn7GJrYKgmkTqMrrs
+        - text: LCD
+- group "Front Camera Resolution":
+  - heading "Front Camera Resolution" [level=2]
+  - list "Front Camera Resolution":
+    - listitem:
+      - link "Apply the filter 10.0 to 12.9 MP to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_thirty-two_browse-bin%3A61505199031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=61505195031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_thirty-two_browse-bin_1&ds=v1%3AX%2Bq2csD%2FxcAIILt5E31mxSNaWncxXx4kiUcnDlnILzI
+        - text: 10.0 to 12.9 MP
+    - listitem:
+      - link "Apply the filter 13.0 MP & above to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_thirty-two_browse-bin%3A61505197031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=61505195031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_thirty-two_browse-bin_2&ds=v1%3Ai9wPf7UvaCtNQbmLz%2BxE9U%2BSv3VNbkQstmk4pZ88xGU
+        - text: 13.0 MP & above
+- group "Video Capture Resolution":
+  - heading "Video Capture Resolution" [level=2]
+  - list "Video Capture Resolution":
+    - listitem:
+      - link "Apply the filter 1080p to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_twenty-four_browse-bin%3A28430295031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=28430291031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_twenty-four_browse-bin_1&ds=v1%3Aqj1JHkt8tUp%2FVQEBgtLv6D9c2gHiyfcudsG9zWLGGv4
+        - text: 1080p
+    - listitem:
+      - link "Apply the filter 2K to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_twenty-four_browse-bin%3A100139568031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=28430291031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_twenty-four_browse-bin_2&ds=v1%3Adpiq5zF%2FTHXDTHxp6asLqju%2BOBHT%2BJbRvUF%2BZR%2FYODI
+        - text: 2K
+    - listitem:
+      - link "Apply the filter 4k to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_twenty-four_browse-bin%3A28430294031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=28430291031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_twenty-four_browse-bin_3&ds=v1%3AmW%2FD98ltU5qVa%2BOSxMLIkP4gs%2BHxG5VEulM%2F367ipvg
+        - text: 4k
+    - listitem:
+      - link "Apply the filter 720p to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_twenty-four_browse-bin%3A28430293031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=28430291031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_twenty-four_browse-bin_4&ds=v1%3AQN8dY9buMokus9Ka5mvb8uUvCfFF79GuoCGjjSE6D9o
+        - text: 720p
+    - listitem:
+      - link "Apply the filter 8k to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_twenty-four_browse-bin%3A28430296031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=28430291031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_twenty-four_browse-bin_5&ds=v1%3Alrw3qb1O4zVZHb0Zh08N%2F7tRpyWedlGf4%2BaakvBdM8U
+        - text: 8k
+- group "Material Features":
+  - heading "Material Features" [level=2]
+  - list "Material Features":
+    - listitem:
+      - link "Apply the filter Recyclable to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_forty-two_browse-bin%3A100427565031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=100427547031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_forty-two_browse-bin_1&ds=v1%3A9Pqzg8BBAc%2FK186Dd33a2fxBHJgNWwntLN7IjatMPaM
+        - text: Recyclable
+- group "Display Resolution":
+  - heading "Display Resolution" [level=2]
+  - list "Display Resolution":
+    - listitem:
+      - link "Apply the filter 1080 x 2340 to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_seventeen_browse-bin%3A27345227031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=27345181031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_seventeen_browse-bin_1&ds=v1%3AfGDoTTMoTY1hYH9RFKp1S3gxky3jUBMqD9PmdnCCdTo
+        - text: 1080 x 2340
+    - listitem:
+      - link "Apply the filter 1080 x 2400 to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_seventeen_browse-bin%3A27345186031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=27345181031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_seventeen_browse-bin_2&ds=v1%3A%2BK31G%2BbKmDbsOYYgUh5nATshR4GN2Tl%2F3rClwil1spg
+        - text: 1080 x 2400
+    - listitem:
+      - link "Apply the filter 2340 x 1080 to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_seventeen_browse-bin%3A27345192031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=27345181031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_seventeen_browse-bin_3&ds=v1%3AqtvX4DbhWA957YEjtG6zrvokZwnqMCGNGKPs9KeRZzM
+        - text: 2340 x 1080
+- group "Battery Life":
+  - heading "Battery Life" [level=2]
+  - list "Battery Life":
+    - listitem:
+      - link "Apply the filter 7 to 12.9 h to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_four_browse-bin%3A42062131031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=42062008031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_four_browse-bin_1&ds=v1%3A9FDDrlLxEKD6Oe8jr3c7O%2FFym7%2BrmywO4gWtUmvXhM4
+        - text: 7 to 12.9 h
+    - listitem:
+      - link "Apply the filter 13 to 18.9 h to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_four_browse-bin%3A42062132031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=42062008031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_four_browse-bin_2&ds=v1%3AiwiwINcpmxnaZ5XPOIeoZ0pcDWdbFr2bUh3GrPkYYqk
+        - text: 13 to 18.9 h
+    - listitem:
+      - link "Apply the filter 19 h & above to narrow results":
+        - /url: /s?k=iphone+15+plus&rh=n%3A976419031%2Cp_n_feature_four_browse-bin%3A42062130031&dc&crid=16YD20ES9034X&qid=1753085471&rnid=42062008031&sprefix=iphone+15+plus%2Caps%2C1286&ref=sr_nr_p_n_feature_four_browse-bin_3&ds=v1%3Au9DmSlg82y3He%2FqtX%2F7nxM0Gvywb10jQWW1yZEu2Ya8
+        - text: 19 h & above
+- complementary "Your recently viewed items and featured recommendations"
+- button "Back to top"
+- heading "Get to Know Us" [level=6]
+- list:
+  - listitem:
+    - link "About Amazon":
+      - /url: https://www.aboutamazon.in/?utm_source=gateway&utm_medium=footer
+  - listitem:
+    - link "Careers":
+      - /url: https://amazon.jobs
+  - listitem:
+    - link "Press Releases":
+      - /url: https://press.aboutamazon.in/?utm_source=gateway&utm_medium=footer
+  - listitem:
+    - link "Amazon Science":
+      - /url: https://www.amazon.science
+- heading "Connect with Us" [level=6]
+- list:
+  - listitem:
+    - link "Facebook":
+      - /url: https://www.amazon.in/gp/redirect.html/ref=footer_fb?location=http://www.facebook.com/AmazonIN&token=2075D5EAC7BB214089728E2183FD391706D41E94&6
+  - listitem:
+    - link "Twitter":
+      - /url: https://www.amazon.in/gp/redirect.html/ref=footer_twitter?location=http://twitter.com/AmazonIN&token=A309DFBFCB1E37A808FF531934855DC817F130B6&6
+  - listitem:
+    - link "Instagram":
+      - /url: https://www.amazon.in/gp/redirect.html?location=https://www.instagram.com/amazondotin&token=264882C912E9D005CB1D9B61F12E125D5DF9BFC7&source=standards
+- heading "Make Money with Us" [level=6]
+- list:
+  - listitem:
+    - link "Sell on Amazon":
+      - /url: /b/?node=2838698031&ld=AZINSOANavDesktopFooter_C&ref_=nav_footer_sell_C
+  - listitem:
+    - link "Sell under Amazon Accelerator":
+      - /url: https://accelerator.amazon.in/?ref_=map_1_b2b_GW_FT
+  - listitem:
+    - link "Protect and Build Your Brand":
+      - /url: https://brandservices.amazon.in/?ref=AOINABRLGNRFOOT&ld=AOINABRLGNRFOOT
+  - listitem:
+    - link "Amazon Global Selling":
+      - /url: https://sell.amazon.in/grow-your-business/amazon-global-selling.html?ld=AZIN_Footer_V1&ref=AZIN_Footer_V1
+  - listitem:
+    - link "Supply to Amazon":
+      - /url: https://supply.amazon.com/?ref_=footer_sta&lang=en-IN
+  - listitem:
+    - link "Become an Affiliate":
+      - /url: https://affiliate-program.amazon.in/?utm_campaign=assocshowcase&utm_medium=footer&utm_source=GW&ref_=footer_assoc
+  - listitem:
+    - link "Fulfilment by Amazon":
+      - /url: https://services.amazon.in/services/fulfilment-by-amazon/benefits.html/ref=az_footer_fba?ld=AWRGINFBAfooter
+  - listitem:
+    - link "Advertise Your Products":
+      - /url: https://advertising.amazon.in/?ref=Amz.in
+  - listitem:
+    - link "Amazon Pay on Merchants":
+      - /url: https://www.amazonpay.in/merchant
+- heading "Let Us Help You" [level=6]
+- list:
+  - listitem:
+    - link "Your Account":
+      - /url: /gp/css/homepage.html?ref_=footer_ya
+  - listitem:
+    - link "Returns Centre":
+      - /url: /gp/css/returns/homepage.html?ref_=footer_hy_f_4
+  - listitem:
+    - link "Recalls and Product Safety Alerts":
+      - /url: https://www.amazon.in/your-product-safety-alerts?ref_=footer_bsx_ypsa
+  - listitem:
+    - link "100% Purchase Protection":
+      - /url: /gp/help/customer/display.html?nodeId=201083470&ref_=footer_swc
+  - listitem:
+    - link "Amazon App Download":
+      - /url: /gp/browse.html?node=6967393031&ref_=footer_mobapp
+  - listitem:
+    - link "Help":
+      - /url: /gp/help/customer/display.html?nodeId=200507590&ref_=footer_gw_m_b_he
+- link "Amazon India Home":
+  - /url: /ref=footer_logo
+- link "Choose a language for shopping. Current selection is English.":
+  - /url: /customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F&ref_=footer_lang
+  - text: English
+- button "Expand to Change Language or Country"
+- button "Choose a country/region for shopping. The current selection is India.": India
+- list:
+  - listitem:
+    - link "AbeBooks Books, art & collectibles":
+      - /url: https://www.abebooks.com/
+      - heading "AbeBooks" [level=5]
+      - text: Books, art & collectibles
+  - listitem:
+    - link "Amazon Web Services Scalable Cloud Computing Services":
+      - /url: https://aws.amazon.com/what-is-cloud-computing/?sc_channel=EL&sc_campaign=IN_amazonfooter
+      - heading "Amazon Web Services" [level=5]
+      - text: Scalable Cloud Computing Services
+  - listitem:
+    - link "Audible Download Audio Books":
+      - /url: https://www.audible.in/
+      - heading "Audible" [level=5]
+      - text: Download Audio Books
+  - listitem:
+    - link "IMDb Movies, TV & Celebrities":
+      - /url: https://www.imdb.com/
+      - heading "IMDb" [level=5]
+      - text: Movies, TV & Celebrities
+- list:
+  - listitem:
+    - link "Shopbop Designer Fashion Brands":
+      - /url: https://www.shopbop.com/
+      - heading "Shopbop" [level=5]
+      - text: Designer Fashion Brands
+  - listitem:
+    - link "Amazon Business Everything For Your Business":
+      - /url: /business?ref=footer_aingw
+      - heading "Amazon Business" [level=5]
+      - text: Everything For Your Business
+  - listitem:
+    - link "Prime Now 2-Hour Delivery on Everyday Items":
+      - /url: /now?ref=footer_amznow
+      - heading "Prime Now" [level=5]
+      - text: 2-Hour Delivery on Everyday Items
+  - listitem:
+    - link "Amazon Prime Music 100 million songs, ad-free Over 15 million podcast episodes":
+      - /url: /music/prime?ref=footer_apm
+      - heading "Amazon Prime Music" [level=5]
+      - text: 100 million songs, ad-free Over 15 million podcast episodes
+- list:
+  - listitem:
+    - link "Conditions of Use & Sale":
+      - /url: /gp/help/customer/display.html?nodeId=200545940&ref_=footer_cou
+  - listitem:
+    - link "Privacy Notice":
+      - /url: /gp/help/customer/display.html?nodeId=200534380&ref_=footer_privacy
+  - listitem:
+    - link "Interest-Based Ads":
+      - /url: /gp/help/customer/display.html?nodeId=202075050&ref_=footer_iba
+- text: © 1996-2025, Amazon.com, Inc. or its affiliates
+```
