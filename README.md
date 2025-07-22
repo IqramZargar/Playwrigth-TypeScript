@@ -76,3 +76,6 @@ Flipkart’s login popup is auto-handled.
 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
+✨ Author
+Made with ❤️ by Muhammad Iqram Zargar
+
